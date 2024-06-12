@@ -68,16 +68,17 @@ const FatalitiesComponent = (props) => {
 
     return (
         <>
-        <section className="text-center pt-12">
-            <div className="mx-auto max-w-screen-xl px-4 py-8 lg:py-12">
-                <div className="flex flex-col space-y-4 space-y-reverse">
-                    <h1 className="order-last text-lg dark:!text-white light:text-gray-700 ">{responseParagraphText}</h1>
-                    <h2 className="text-5xl font-bold light:text-black dark:text-white sm:text-6xl">{responseHeaderText}</h2>
-                    <h3 className="text-lg text-gray-700">{responseSubheaderText}</h3>
-                </div>
-                <p className="mx-auto mt-6 max-w-xl text-pretty text-base/relaxed dark:text-white light:text-gray-700">{incompleteDataText}</p>
-            </div>
-        </section>
+        <section className="custom-section text-center pt-12">
+    <div className="custom-container mx-auto max-w-screen-xl px-4 py-8 lg:py-12">
+        <div className="custom-content flex flex-col space-y-4 space-y-reverse">
+            <h1 className="custom-paragraph order-last text-lg">{responseParagraphText}</h1>
+            <h2 className="custom-header text-5xl font-bold sm:text-6xl">{responseHeaderText}</h2>
+            <h3 className="custom-subheader text-lg">{responseSubheaderText}</h3>
+        </div>
+        <p className="custom-text mx-auto mt-6 max-w-xl text-base/relaxed">{incompleteDataText}</p>
+    </div>
+</section>
+
         <ul className="timeline timeline-vertical mt-20">
             {renderListItem(props.data)}
         </ul>

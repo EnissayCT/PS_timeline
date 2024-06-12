@@ -1,0 +1,53 @@
+:root {
+    --aaa: #ffffff;
+    --bbb: #000000;
+    --ccc: #32CD32;
+}
+
+[data-theme="dark"] {
+    --aaa: #000000;
+    --bbb: #ffffff;
+    --ccc: #32CD32;
+}
+
+[data-theme="light"] {
+    --aaa: #ffffff;
+    --bbb: #000000;
+    --ccc: #32CD32;
+}
+
+/* Use these variables in your navbar styles */
+nav {
+    background-color: var(--aaa);
+    color: var(--bbb);
+}
+
+nav a {
+    color: var(--bbb);
+}
+
+nav a:hover {
+    color: var(--ccc);
+}
+
+
+.custom-section {
+    background-color: var(--aaa);
+    color: var(--bbb);
+}
+
+.custom-header {
+    color: var(--bbb);
+}
+
+.custom-subheader {
+    color: var(--bbb);
+}
+
+.custom-paragraph {
+    color: var(--bbb);
+}
+
+.custom-text {
+    color: var(--bbb);
+}
