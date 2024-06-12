@@ -112,5 +112,26 @@
         "title": "2023 Gaza Conflict",
         "description": "In 2023, Israel launched a massive attack on the Gaza Strip, resulting in over 40,000 Palestinian deaths, numerous war crimes, and the maiming and orphaning of tens of thousands.",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/231031124831-01-jabalia-refugee-camp-airstrike-103123.jpg?c=original"
+    },
+    {
+        "date": "2023-Current",
+        "title": "Occupied West Bank",
+        "description": "In the Occupied West Bank, Israel has killed at least 538 people, including more than 134 children, and injured more than 5,000 individuals. (Hamas doesn't exist in the West Bank.)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-ogYkGxF490YFFH_trN0WRVtWFrwi98KEA&s"
+    },{
+        "date": "2023-current",
+        "title": "Every hour in Gaza",
+        "description": "15 people are killed - six are children - 35 people are injured - 42 bombs are dropped* -12 buildings are destroyed - 2 mothers killed",
+        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2024/01/19/4188386-176277588.jpg?itok=23TsEka2"
+    },{
+        "date": "2023-current",
+        "title": "Journalists killed",
+        "description": "As of April 5, more than 100 journalists, mostly Palestinians, have been killed since the Israel-Gaza war began on October 7. According to the Committee to Protect Journalists and the International Federation of Journalists, 96 Palestinian, three Lebanese and four Israeli journalists have been killed.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYUsi6oIMoYCCLtjdVPG9r06uOd0FuJKo9-Q&s"
+    },{
+        "date": "2023-current",
+        "title": "Devastation across Gaza",
+        "description": "More than half of Gaza’s homes have been destroyed or damaged - 80% of commercial facilities - 88% of school buildings - 16 out of 35 hospitals are partially functioning - 130 ambulances - 267 places of worship",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ka8Wsq668AsIuhFZOoGdkynA3FqB9ang9w&s"
     }
 ]

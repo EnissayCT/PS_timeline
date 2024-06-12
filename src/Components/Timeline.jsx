@@ -1,7 +1,7 @@
 
 const TimelineComponent = (props) => {
   return (
-    <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical mt-20">
+    <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical mt-2">
       {props.data.map((item, index) => (
         <li key={index}>
           {(index % 2 === 0) ? (
@@ -56,6 +56,5 @@ const TimelineComponent = (props) => {
   );
 };
 
-  
 
 export default TimelineComponent;

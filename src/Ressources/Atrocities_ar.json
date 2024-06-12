@@ -112,5 +112,30 @@
         "title": "صراع غزة 2023",
         "description": "في عام 2023، شنت إسرائيل هجومًا ضخمًا على قطاع غزة، مما أدى إلى مقتل أكثر من 40,000 فلسطيني، وارتكاب العديد من جرائم الحرب، وتشويه وتهجير عشرات الآلاف.",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/231031124831-01-jabalia-refugee-camp-airstrike-103123.jpg?c=original"
+    },
+    {
+        "date": "2023-الحالي",
+        "title": "الضفة الغربية المحتلة",
+        "description": "في الضفة الغربية المحتلة، قتلت إسرائيل ما لا يقل عن 538 شخصًا، بما في ذلك أكثر من 134 طفلًا، وأصابت أكثر من 5,000 فرد. (حماس غير موجودة في الضفة الغربية.)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-ogYkGxF490YFFH_trN0WRVtWFrwi98KEA&s"
+    },
+    {
+        "date": "2023-الحالي",
+        "title": "كل ساعة في غزة",
+        "description": "يُقتل 15 شخصًا - منهم ستة أطفال - يُصاب 35 شخصًا - تُسقط 42 قنبلة - تُدمر 12 مبنى - تُقتل 2 من الأمهات",
+        "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2024/01/19/4188386-176277588.jpg?itok=23TsEka2"
+    },
+    {
+        "date": "2023-الحالي",
+        "title": "الصحفيين المقتولين",
+        "description": "حتى 5 أبريل، قُتل أكثر من 100 صحفي، معظمهم فلسطينيون، منذ بدء الحرب بين إسرائيل وغزة في 7 أكتوبر. وفقًا للجنة حماية الصحفيين والاتحاد الدولي للصحفيين، قُتل 96 صحفيًا فلسطينيًا، وثلاثة صحفيين لبنانيين، وأربعة صحفيين إسرائيليين.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYUsi6oIMoYCCLtjdVPG9r06uOd0FuJKo9-Q&s"
+    },
+    {
+        "date": "2023-الحالي",
+        "title": "الدمار في غزة",
+        "description": "أكثر من نصف منازل غزة دمرت أو تضررت - 80٪ من المنشآت التجارية - 88٪ من مباني المدارس - 16 من 35 مستشفى تعمل جزئيًا - 130 سيارة إسعاف - 267 مكان عبادة",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ka8Wsq668AsIuhFZOoGdkynA3FqB9ang9w&s"
     }
+    
 ]
