@@ -123,7 +123,26 @@
         "title": "Every hour in Gaza",
         "description": "15 people are killed - six are children - 35 people are injured - 42 bombs are dropped* -12 buildings are destroyed - 2 mothers killed",
         "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2024/01/19/4188386-176277588.jpg?itok=23TsEka2"
-    },{
+    },
+    {
+        "date": "2023-current",
+        "title": "Man-Made Hunger",
+        "description": "The Israeli blockade of water and food, combined with incessant bombing, has caused unprecedented levels of hunger in Gaza. Tragically, 28 children have died due to malnutrition and dehydration, and the number is rising.",
+        "image": "https://i.redd.it/yazan-al-kafarna-the-boy-who-starved-to-death-v0-s6jftamt2cmc1.jpg?width=1080&format=pjpg&auto=webp&s=319eef9f3f7fe4034f013af3e1c1d0a7dc707f09"
+    },
+    {
+        "date": "2023-current",
+        "title": "Healthcare Disaster",
+        "description": "Over 60,000 pregnant women in Gaza cannot receive health care, and 350,000 people with chronic illnesses are at risk of death due to lack of medication. According to the report, there are no fully functional hospitals in Gaza, and only 9 out of 36 hospitals remain partially functional.",
+        "image": "https://gdb.voanews.com/01000000-0aff-0242-55bb-08dc00cfb7e0_cx0_cy9_cw0_w1080_h608_s.jpg"
+    },
+    {
+        "date": "2023-current",
+        "title": "No Students Left",
+        "description": "The Israeli army destroyed 171 government facilities and 100 schools and universities, and 305 schools and universities were partially damaged. The 2023/2024 academic year is canceled. (Above is Gaza's last remaining university getting blown up to dust)",
+        "image": "https://www.middleeastmonitor.com/wp-content/uploads/2024/01/Artboard-3-3-1.jpg"
+    },            
+    {
         "date": "2023-current",
         "title": "Journalists killed",
         "description": "As of April 5, more than 100 journalists, mostly Palestinians, have been killed since the Israel-Gaza war began on October 7. According to the Committee to Protect Journalists and the International Federation of Journalists, 96 Palestinian, three Lebanese and four Israeli journalists have been killed.",
@@ -133,5 +152,24 @@
         "title": "Devastation across Gaza",
         "description": "More than half of Gaza’s homes have been destroyed or damaged - 80% of commercial facilities - 88% of school buildings - 16 out of 35 hospitals are partially functioning - 130 ambulances - 267 places of worship",
         "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2024/02/AA-20240207-33637278-33637267-DESTRUCTION_IN_GAZA_CITY_AFTER_ISRAELI_FORCES_WITHDREW.jpg?fit=1200%2C800&ssl=1"
+    },
+    {
+        "date": "February 29, 2024",
+        "title": "Flour Massacre",
+        "description": "At 4 a.m., a massacre was carried out by Israeli forces, killing at least 118 Palestinians as they gathered to receive flour. More than 1,000 people were injured.",
+        "image": "https://www.wsws.org/asset/5d9bd603-a693-4ee1-902e-a8359f6e8e1f?rendition=1600x900"
+    },
+    {
+        "date": "May 2024",
+        "title": "Nasser's Hospital Massacre",
+        "description": "392 bodies – including women, children, elderly, and injured persons – were found in mass graves on the grounds of Nasser Hospital in Khan Younis. Some bodies had their limbs bound together, others were blindfolded, indicating a massive field execution.",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIKI9x57kXcU/v0/-1x-1.jpg"
+    },        
+    {
+        "date": "June 8, 2024",
+        "title": "Nuseirat Massacre",
+        "description": "Over 200 Palestinian civilians, including children, were killed in the Israeli massacre in Nuseirat refugee camp, with over 600 injured. Israel's 'rescue' mission resulted in the freeing of 4 hostages but also the death of 3 others.",
+        "image": "https://wilayah.com.my/wp-content/uploads/2024/06/AFP__20240608__34VW7Y7__v1__HighRes__PalestinianIsraelConflict.jpg"
     }
+    
 ]

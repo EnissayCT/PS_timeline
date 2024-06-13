@@ -126,16 +126,54 @@
         "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2024/01/19/4188386-176277588.jpg?itok=23TsEka2"
     },
     {
+        "date": "2023-actuel",
+        "title": "Faim causée par l'homme",
+        "description": "Le blocus israélien de l'eau et de la nourriture, combiné aux bombardements incessants, a provoqué des niveaux de faim sans précédent à Gaza. Tragiquement, 28 enfants sont morts de malnutrition et de déshydratation, et le nombre continue d'augmenter.",
+        "image": "https://i.redd.it/yazan-al-kafarna-the-boy-who-starved-to-death-v0-s6jftamt2cmc1.jpg?width=1080&format=pjpg&auto=webp&s=319eef9f3f7fe4034f013af3e1c1d0a7dc707f09"
+    },
+    {
+        "date": "2023-actuel",
+        "title": "Catastrophe Sanitaire",
+        "description": "Plus de 60 000 femmes enceintes à Gaza ne peuvent pas recevoir de soins de santé, et 350 000 personnes atteintes de maladies chroniques risquent de mourir faute de médicaments. Selon le rapport, il n'y a pas d'hôpitaux entièrement fonctionnels à Gaza, et seulement 9 des 36 hôpitaux restent partiellement fonctionnels.",
+        "image": "https://gdb.voanews.com/01000000-0aff-0242-55bb-08dc00cfb7e0_cx0_cy9_cw0_w1080_h608_s.jpg"
+    },
+    {
+        "date": "2023-actuel",
+        "title": "Plus d'Étudiants",
+        "description": "L'armée israélienne a détruit 171 installations gouvernementales et 100 écoles et universités, et 305 écoles et universités ont été partiellement endommagées. L'année scolaire 2023/2024 est annulée. (Ci-dessus, la dernière université restante de Gaza est réduite en poussière)",
+        "image": "https://www.middleeastmonitor.com/wp-content/uploads/2024/01/Artboard-3-3-1.jpg"
+    },            
+    {
         "date": "2023-Actuel",
         "title": "Journalistes tués",
         "description": "Au 5 avril, plus de 100 journalistes, principalement palestiniens, ont été tués depuis le début de la guerre entre Israël et Gaza le 7 octobre. Selon le Comité pour la protection des journalistes et la Fédération internationale des journalistes, 96 journalistes palestiniens, trois libanais et quatre israéliens ont été tués.",
         "image": "https://www.commondreams.org/media-library/gaza-journalist-s-funeral.jpg?id=50446715&width=1200&height=800&quality=90&coordinates=0%2C2%2C0%2C3"
     },
+    
     {
         "date": "2023-Actuel",
         "title": "Dévastation à travers Gaza",
         "description": "Plus de la moitié des maisons de Gaza ont été détruites ou endommagées - 80% des installations commerciales - 88% des bâtiments scolaires - 16 sur 35 hôpitaux fonctionnent partiellement - 130 ambulances - 267 lieux de culte",
         "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2024/02/AA-20240207-33637278-33637267-DESTRUCTION_IN_GAZA_CITY_AFTER_ISRAELI_FORCES_WITHDREW.jpg?fit=1200%2C800&ssl=1"
+    },
+    {
+        "date": "29 février 2024",
+        "title": "Massacre de la Farine",
+        "description": "À 4 heures du matin, un massacre a été perpétré par les forces israéliennes, tuant au moins 118 Palestiniens alors qu'ils se rassemblaient pour recevoir de la farine. Plus de 1 000 personnes ont été blessées.",
+        "image": "https://www.wsws.org/asset/5d9bd603-a693-4ee1-902e-a8359f6e8e1f?rendition=1600x900"
+    },
+    {
+        "date": "Mai 2024",
+        "title": "Massacre de l'Hôpital Nasser",
+        "description": "392 corps – y compris des femmes, des enfants, des personnes âgées et des blessés – ont été trouvés dans des fosses communes sur les terrains de l'hôpital Nasser à Khan Younis. Certains corps avaient les membres liés, d'autres étaient aveuglés, indiquant une exécution de masse sur le terrain.",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIKI9x57kXcU/v0/-1x-1.jpg"
+    },        
+    {
+        "date": "8 juin 2024",
+        "title": "Massacre de Nuseirat",
+        "description": "Plus de 200 civils palestiniens, y compris des enfants, ont été tués dans le massacre israélien dans le camp de réfugiés de Nuseirat, avec plus de 600 blessés. La mission de 'sauvetage' d'Israël a permis de libérer 4 otages, mais 3 autres ont été tués au cours de la même mission.",
+        "image": "https://wilayah.com.my/wp-content/uploads/2024/06/AFP__20240608__34VW7Y7__v1__HighRes__PalestinianIsraelConflict.jpg"
     }
+    
     
 ]
