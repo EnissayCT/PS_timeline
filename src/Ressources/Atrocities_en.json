@@ -116,7 +116,7 @@
     {
         "date": "2023-Current",
         "title": "Occupied West Bank",
-        "description": "In the Occupied West Bank, Israel has killed at least 538 people, including more than 134 children, and injured more than 5,000 individuals. (Hamas doesn't exist in the West Bank.)",
+        "description": "In the Occupied West Bank, Israel has killed at least 576 people, including more than 138 children, and injured more than 5,350 individuals. (Hamas doesn't exist in the West Bank.)",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-ogYkGxF490YFFH_trN0WRVtWFrwi98KEA&s"
     },{
         "date": "2023-current",
@@ -127,7 +127,7 @@
     {
         "date": "2023-current",
         "title": "Man-Made Hunger",
-        "description": "The Israeli blockade of water and food, combined with incessant bombing, has caused unprecedented levels of hunger in Gaza. Tragically, 28 children have died due to malnutrition and dehydration, and the number is rising.",
+        "description": "The Israeli blockade of water and food, combined with incessant bombing, has caused unprecedented levels of hunger in Gaza. Tragically, 32 children have died due to malnutrition and dehydration, and the number is rising.",
         "image": "https://i.redd.it/yazan-al-kafarna-the-boy-who-starved-to-death-v0-s6jftamt2cmc1.jpg?width=1080&format=pjpg&auto=webp&s=319eef9f3f7fe4034f013af3e1c1d0a7dc707f09"
     },
     {
@@ -170,6 +170,58 @@
         "title": "Nuseirat Massacre",
         "description": "Over 200 Palestinian civilians, including children, were killed in the Israeli massacre in Nuseirat refugee camp, with over 600 injured. Israel's 'rescue' mission resulted in the freeing of 4 hostages but also the death of 3 others.",
         "image": "https://wilayah.com.my/wp-content/uploads/2024/06/AFP__20240608__34VW7Y7__v1__HighRes__PalestinianIsraelConflict.jpg"
+    },
+    {
+        "date": "2023-current",
+        "title": "Thousands Maimed",
+        "description": "Nearly 10,000 Palestinians, half of them children, have been disabled since the start of the war on Gaza, according to the Palestinian NGO Network.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/0U2A5912-1700057819.jpg?resize=770%2C513&quality=80"
+    },
+    {
+        "date": "2023-current",
+        "title": "Thousands Missing",
+        "description": "More than 10,000 people have been reported missing under the rubble in Gaza since the start of the recent war. This humanitarian catastrophe highlights the immense suffering faced by the civilian population in the region.",
+        "image": "https://i.cbc.ca/1.6992152.1696983534!/fileImage/httpImage/israel-palestinians.jpg"
+    },
+    {
+        "date": "13 Jul 2024",
+        "title": "The Mawasi Massacre",
+        "description": "The Al Mawasi Massacre was committed by Israel with fighter jets on displaced people's tents, killing 110+ Palestinians and wounding 300+. EVERY SINGLE ONE OF THEM WAS A CIVILIAN",
+        "image": "https://www.revolutionpermanente.fr/IMG/logo/img_2690.jpg?1720955917"
+    },
+    {
+        "date": "Oct 2023 - current",
+        "title": "Mass detentions",
+        "description": "Israeli occupation forces have arrested more than 9700 Palestinian citizens since the beginning of the aggression on Gaza on October 7th. According to the Commission of Detainees and Ex-Detainees Affairs and the Prisoners' Club, the arrests were accompanied by widespread abuse, beatings, threats against detainees and their families, and destruction of homes.",
+        "image": "https://www.middleeastmonitor.com/wp-content/uploads/2021/09/20210924-Israeli-forces-detain-10-year-old-Palestinian-boy-in-West-Bank_6.jpg"
+    },
+    {
+        "date": "October 2023 - current",
+        "title": "UNRWA Casualties",
+        "description": "The highest number of casualties in UN history: 193 UNRWA staff members have been killed in Gaza since the start of the occupation's war.",
+        "image": "https://static.timesofisrael.com/www/uploads/2023/10/AP23283640929257.jpg"
+    },
+    {
+        "date": "May 26, 2024",
+        "title": "The Tent Massacre",
+        "description": "The Rafah Massacre, also known as the Tent Massacre, was carried out by occupation forces, resulting in the martyrdom of 45 Palestinians, including 23 women, children, and elderly people. Another 249 were injured. Israeli planes dropped bombs on the camp, causing a fire that consumed 14 tents. Bodies were torn apart, children were left headless, and limbs were charred.",
+        "image": "https://www.alquds.co.uk/wp-content/uploads/2024/05/6-57.jpg"
+    },
+    {
+        "date": "2008 - current",
+        "title": "White phosphorus",
+        "description": "Israeli forces' use of white phosphorus bombs in Lebanon and Gaza has caused long-term damage to the environment, agriculture, and economy. Human rights groups believe Israel intentionally uses white phosphorus to create buffer zones, harass residents, and displace people from farmlands.",
+        "image": "https://www.amnesty.org/en/wp-content/uploads/2023/10/Lebanon_Israel_Palestinians_23289563745834-e1698750446353-1468x710.jpg"
+    },
+    {
+        "date": "2023 - current",
+        "title": "IDF dogs",
+        "description": "The Israeli military has used police dogs to systematically attack Palestinian civilians during military operations in the Gaza Strip. The dogs were also used to intimidate, beat, and sexually assault prisoners and detainees in Israeli detention facilities.",
+        "image": "https://cdn.siasat.com/wp-content/uploads/2024/06/Israel-dog-Palestinian.jpg"
     }
+    
+    
+    
+    
     
 ]

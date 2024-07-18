@@ -116,7 +116,7 @@
     {
         "date": "2023-Actuel",
         "title": "Cisjordanie occupée",
-        "description": "En Cisjordanie occupée, Israël a tué au moins 538 personnes, dont plus de 134 enfants, et blessé plus de 5 000 individus. (Le Hamas n'existe pas en Cisjordanie.)",
+        "description": "En Cisjordanie occupée, Israël a tué au moins 576 personnes, dont plus de 138 enfants, et blessé plus de 5 350 individus. (Le Hamas n'existe pas en Cisjordanie.)",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-ogYkGxF490YFFH_trN0WRVtWFrwi98KEA&s"
     },
     {
@@ -128,7 +128,7 @@
     {
         "date": "2023-actuel",
         "title": "Faim causée par l'homme",
-        "description": "Le blocus israélien de l'eau et de la nourriture, combiné aux bombardements incessants, a provoqué des niveaux de faim sans précédent à Gaza. Tragiquement, 28 enfants sont morts de malnutrition et de déshydratation, et le nombre continue d'augmenter.",
+        "description": "Le blocus israélien de l'eau et de la nourriture, combiné aux bombardements incessants, a provoqué des niveaux de faim sans précédent à Gaza. Tragiquement, 32 enfants sont morts de malnutrition et de déshydratation, et le nombre continue d'augmenter.",
         "image": "https://i.redd.it/yazan-al-kafarna-the-boy-who-starved-to-death-v0-s6jftamt2cmc1.jpg?width=1080&format=pjpg&auto=webp&s=319eef9f3f7fe4034f013af3e1c1d0a7dc707f09"
     },
     {
@@ -173,7 +173,54 @@
         "title": "Massacre de Nuseirat",
         "description": "Plus de 200 civils palestiniens, y compris des enfants, ont été tués dans le massacre israélien dans le camp de réfugiés de Nuseirat, avec plus de 600 blessés. La mission de 'sauvetage' d'Israël a permis de libérer 4 otages, mais 3 autres ont été tués au cours de la même mission.",
         "image": "https://wilayah.com.my/wp-content/uploads/2024/06/AFP__20240608__34VW7Y7__v1__HighRes__PalestinianIsraelConflict.jpg"
+    },
+    {
+        "date": "2023-actuel",
+        "title": "Des milliers de personnes mutilées",
+        "description": "Près de 10 000 Palestiniens, dont la moitié sont des enfants, ont été rendus handicapés depuis le début de la guerre sur Gaza, selon le Réseau des ONG palestiniennes.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/0U2A5912-1700057819.jpg?resize=770%2C513&quality=80"
+    },
+    {
+        "date": "2023-actuel",
+        "title": "Des milliers de disparus",
+        "description": "Plus de 10 000 personnes sont portées disparues sous les décombres de Gaza depuis le début de la récente guerre. Cette catastrophe humanitaire souligne la souffrance immense de la population civile dans la région.",
+        "image": "https://i.cbc.ca/1.6992152.1696983534!/fileImage/httpImage/israel-palestinians.jpg"
+    },
+    {
+        "date": "13 juillet 2024",
+        "title": "Le Massacre de Mawasi",
+        "description": "Le massacre d'Al Mawasi a été commis par Israël avec des avions de combat sur des tentes de personnes déplacées, tuant plus de 110 Palestiniens et en blessant plus de 300. TOUS ÉTAIENT DES CIVILS.",
+        "image": "https://www.revolutionpermanente.fr/IMG/logo/img_2690.jpg?1720955917"
+    },
+    {
+        "date": "octobre 2023 - actuel",
+        "title": "Détentions massives",
+        "description": "Les forces d'occupation israéliennes ont arrêté plus de 9700 citoyens palestiniens depuis le début de l'agression sur Gaza le 7 octobre. Selon la Commission des Affaires des Détenus et des Ex-Détenus et le Club des Prisonniers, les arrestations ont été accompagnées de sévices généralisés, de passages à tabac, de menaces contre les détenus et leurs familles, ainsi que de la destruction de maisons.",
+        "image": "https://www.middleeastmonitor.com/wp-content/uploads/2021/09/20210924-Israeli-forces-detain-10-year-old-Palestinian-boy-in-West-Bank_6.jpg"
+    },
+    {
+        "date": "octobre 2023 - actuel",
+        "title": "Victimes de l'UNRWA",
+        "description": "Le plus grand nombre de victimes de l'histoire de l'ONU : 193 membres du personnel de l'UNRWA ont été tués à Gaza depuis le début de la guerre de l'occupation.",
+        "image": "https://static.timesofisrael.com/www/uploads/2023/10/AP23283640929257.jpg"
+    },
+    {
+        "date": "26 mai 2024",
+        "title": "Le Massacre des Tentes",
+        "description": "Le Massacre de Rafah, également connu sous le nom de Massacre des Tentes, a été perpétré par les forces d'occupation, entraînant la mort de 45 Palestiniens, dont 23 femmes, enfants et personnes âgées. 249 autres ont été blessés. Des avions israéliens ont largué des bombes sur le camp, provoquant un incendie qui a consumé 14 tentes. Les corps étaient déchirés, des enfants décapités et des membres carbonisés.",
+        "image": "https://www.alquds.co.uk/wp-content/uploads/2024/05/6-57.jpg"
+    },
+    {
+        "date": "2008 - actuel",
+        "title": "Phosphore blanc",
+        "description": "L'utilisation par les forces israéliennes de bombes au phosphore blanc au Liban et à Gaza a causé des dommages à long terme à l'environnement, à l'agriculture et à l'économie. Les groupes de défense des droits de l'homme pensent qu'Israël utilise intentionnellement le phosphore blanc pour créer des zones tampons, harceler les résidents et déplacer les personnes de leurs terres agricoles.",
+        "image": "https://www.amnesty.org/en/wp-content/uploads/2023/10/Lebanon_Israel_Palestinians_23289563745834-e1698750446353-1468x710.jpg"
+    },
+    {
+        "date": "2023 - actuel",
+        "title": "Chiens de Tsahal",
+        "description": "L'armée israélienne a utilisé des chiens policiers pour attaquer systématiquement les civils palestiniens lors d'opérations militaires dans la bande de Gaza. Les chiens ont également été utilisés pour intimider, battre et agresser sexuellement les prisonniers et les détenus dans les centres de détention israéliens.",
+        "image": "https://cdn.siasat.com/wp-content/uploads/2024/06/Israel-dog-Palestinian.jpg"
     }
-    
     
 ]
