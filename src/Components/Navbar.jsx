@@ -20,6 +20,7 @@ const Navbar = () => {
         en: {
             history: "History",
             atrocities: "Atrocities",
+            stats: "Statistics",
             dtoll: "Death Toll",
             disinformations: "Disinformations",
             contact: "Contact Us",
@@ -27,6 +28,7 @@ const Navbar = () => {
         ar: {
             history: "تاريخ",
             atrocities: "مجازر",
+            stats: "إحصائيات",
             dtoll: "عدد الوفيات",
             disinformations: "شبهات",
             contact: "اتصل بنا",
@@ -34,6 +36,7 @@ const Navbar = () => {
         fr: {
             history: "Histoire",
             atrocities: "Atrocités",
+            stats: "statistiques",
             dtoll: "Nombre de Morts",
             disinformations: "Désinformations",
             contact: "Contactez-nous",
@@ -104,6 +107,9 @@ const Navbar = () => {
                         </li>
                         <li>
                             <a href="#" onClick={() => handleLinkClick('Atrocities')} className={`block py-2 px-3 ${activeLink === 'Atrocities' ? 'text-red-600' : 'text-current'} rounded md:hover:bg-transparent md:p-0 hover:text-green-500`}><Link to={"/atrocities"}>{translations[language].atrocities}</Link></a>
+                        </li>
+                        <li>
+                            <a href="#" onClick={() => handleLinkClick('stats')} className={`block py-2 px-3 ${activeLink === 'stats' ? 'text-red-600' : 'text-current'} rounded md:hover:bg-transparent md:p-0 hover:text-green-500`}><Link to={"/stats"}>{translations[language].stats}</Link></a>
                         </li>
                         <li>
                             <a href="#" onClick={() => handleLinkClick('dtoll')} className={`block py-2 px-3 ${activeLink === 'dtoll' ? 'text-red-600' : 'text-current'} rounded md:hover:bg-transparent md:p-0 hover:text-green-500`}><Link to={"/dtoll"}>{translations[language].dtoll}</Link></a>

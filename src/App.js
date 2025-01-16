@@ -22,6 +22,8 @@ import ScrollToTop from "./Components/ScrollToTopBehavior";
 import ContactForm from "./Components/ContactUs";
 import ScrollToTopButton from "./Components/ScrollToTopButton";
 import QA from "./Components/Disinformations";
+import StatPage from "./Components/StatsPage";
+import Footer from "./Components/Footer";
 
 function App() {
   const language = sessionStorage.getItem('language');
@@ -88,12 +90,16 @@ function App() {
                 </div>
           </section>
           <TimelineComponent data={atrocitiesData} /></>} />
+      <Route path="/stats" element={<StatPage/>} />
       <Route path="/contact" element={<ContactForm />} />
       <Route path="/dtoll" element={<FatalitiesComponent data={fatalitiesData} />} />
       <Route path="/disinformations" element={<QA data={DisinformationsData}/>} />
+
       {/* <Route path="*" element={}/> */}
       </Routes>
       <ScrollToTopButton />
+      <Footer />
+      
     </Router>
   );
 }

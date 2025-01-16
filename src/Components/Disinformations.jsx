@@ -49,7 +49,7 @@ const QA = ({ data }) => {
                 <div className="chat chat-end">
                 <div className="chat-image avatar">
                     <div className="w-10 rounded-full">
-                    <img alt="" src="https://en.royanews.tv/imageserv/Size728Q100/news/20231123/46810.JPG" />
+                    <img alt="" src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AA4BTXOSS7KZK66G5CMVJYUIXQ.JPG&w=1440&impolicy=high_res" />
                     </div>
                 </div>
                 <div className="chat-header p-2"> Palestine

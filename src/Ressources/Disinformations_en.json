@@ -1,70 +1,70 @@
 [
     {
         "Q": "Did Palestinians voluntarily sell their land to Jews?",
-        "A": "Most Palestinian lands were confiscated through coercion and legal manipulations during the British Mandate, not through voluntary sales. Those who did sell their land were Christians and Jews, not Muslims."
+        "A": "Historical records, including British Mandate land registries, show that most Palestinian land was confiscated through coercion, legal manipulations, and policies like absentee land laws. Voluntary sales were rare and often involved absentee landlords who were not directly impacted by displacement."
     },
     {
         "Q": "Is Gaza uninhabitable because of Hamas?",
-        "A": "Gaza's uninhabitability is largely due to the blockade and repeated military assaults by Israel. Hamas members are Palestinians; why would they seek to worsen their own lives?"
+        "A": "The UN and multiple human rights organizations attribute Gaza's uninhabitability to Israel's blockade, which restricts essential goods, medical supplies, and construction materials, and repeated military campaigns causing massive infrastructure damage. Hamas governs Gaza but does not control these external blockades."
     },
     {
         "Q": "Did Israel offer generous peace deals that Palestinians rejected?",
-        "A": "The 'generous' peace offers often included terms that compromised Palestinian sovereignty and rights, making them unacceptable."
+        "A": "Documents such as the Camp David Summit records reveal that proposed peace deals often maintained Israeli control over major settlement blocs, restricted Palestinian sovereignty, and lacked guarantees for refugee rights, making them unacceptable to Palestinians."
     },
     {
         "Q": "Are all Palestinians terrorists?",
-        "A": "Labeling all Palestinians as terrorists is inaccurate and harmful. The majority of Palestinians seek peace and justice; those who do fight are more accurately described as freedom fighters than terrorists."
+        "A": "International organizations like Amnesty International emphasize that labeling an entire population as terrorists is discriminatory and dehumanizing. Most Palestinians are civilians seeking to live under fair governance and secure rights under international law."
     },
     {
         "Q": "Is the conflict solely a religious war?",
-        "A": "While religion plays a role, the conflict is fundamentally about land, rights, and national identity."
+        "A": "While religion influences the narrative, experts like Rashid Khalidi highlight that the core of the conflict lies in territorial disputes, colonial practices, and the denial of Palestinian self-determination."
     },
     {
-        "Q": "Has Israel always acted in self-defense in all conflicts?",
-        "A": "Many of Israel's military actions, especially in Gaza, have been criticized internationally as disproportionate and offensive."
+        "Q": "Has Israel always acted in self-defense?",
+        "A": "Reports from the UN and groups like Human Rights Watch indicate that many Israeli military operations, especially in Gaza, involve disproportionate force, targeting civilian infrastructure and resulting in high civilian casualties, which violates international humanitarian law."
     },
     {
         "Q": "Is Israel the only democracy in the Middle East?",
-        "A": "While Israel is a democracy, its treatment of Palestinians raises questions about its adherence to democratic principles. Furthermore, there are many other countries in the Middle East that are, by definition, democracies."
+        "A": "Although Israel is a parliamentary democracy, the exclusion of millions of Palestinians under occupation from voting and civil rights undermines its democratic principles. Other Middle Eastern countries, like Lebanon and Tunisia, also have democratic systems."
     },
     {
         "Q": "Did Palestinians leave their homes voluntarily in 1948?",
-        "A": "All Palestinians were forcibly expelled or fled due to violence and fear during the 1948 war."
+        "A": "The forced displacement of Palestinians in 1948, known as the Nakba, is documented by historians such as Ilan Pappé, who detail massacres, fear campaigns, and military expulsions as driving factors."
     },
     {
         "Q": "Is the Palestinian Authority fully responsible for the lack of peace?",
-        "A": "Events like Israeli settlement expansion, the imprisonment of Palestinians for minor (Throwing a pebble at a tank) or unsubstantiated charges, and the blockade of goods such as chocolate, wedding dresses, and coriander into Gaza are major hindrances to establishing peace."
+        "A": "Settlement expansions, mass detentions, and military blockades—documented by the UN and international courts—are major impediments to peace. The PA’s limited authority under Israeli occupation also restricts its capacity to negotiate effectively."
     },
     {
         "Q": "Are Israeli settlements in the West Bank rightful and legal?",
-        "A": "International law, including UN resolutions, considers Israeli settlements in the occupied West Bank illegal."
+        "A": "UN Security Council Resolution 2334 and the Fourth Geneva Convention classify Israeli settlements in the occupied West Bank as violations of international law."
     },
     {
         "Q": "Are house demolitions in Palestine justified?",
-        "A": "Israel frequently demolishes Palestinian homes, citing lack of permits as justification. However, obtaining permits is extremely difficult for Palestinians, leading to a cycle of demolitions and displacement."
+        "A": "Human rights organizations like B’Tselem report that house demolitions are often politically motivated, with permits systematically denied to Palestinians. The UN considers these actions a form of collective punishment."
     },
     {
-        "Q": "Is the Gaza blockade necessary for security reasons?",
-        "A": "Israel imposes a blockade on the Gaza Strip, severely restricting the movement of people and goods. This blockade has led to humanitarian crises, including shortages of food, medicine, and other essential items."
+        "Q": "Is the Gaza blockade necessary for security?",
+        "A": "Reports by organizations such as the International Committee of the Red Cross (ICRC) state that the blockade constitutes collective punishment under international law, as it disproportionately harms civilians and exacerbates humanitarian crises."
     },
     {
-        "Q": "Are Palestinian children treated fairly in Israeli military detention?",
-        "A": "Palestinian children in the West Bank are often subjected to arrest and detention by the Israeli military. They are tried in military courts, where their rights are frequently violated, including lack of access to legal representation and being subjected to physical abuse."
+        "Q": "Are Palestinian children treated fairly in Israeli detention?",
+        "A": "UNICEF reports that Palestinian children detained by Israeli forces often face physical abuse, interrogation without legal counsel, and trial in military courts—practices that violate the UN Convention on the Rights of the Child."
     },
     {
         "Q": "Is violence by Israeli settlers rare?",
-        "A": "Israeli settlers in the West Bank frequently perpetrate violence against Palestinians, including attacks on individuals, vandalism of property, and destruction of crops. These attacks often go unpunished by Israeli authorities."
+        "A": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) documents frequent violence by settlers, including property destruction and attacks on Palestinians. These incidents are rarely prosecuted by Israeli authorities."
     },
     {
         "Q": "Do Palestinians have freedom of movement in the West Bank?",
-        "A": "Palestinians face numerous restrictions on their movement within the West Bank, including checkpoints, roadblocks, and the separation barrier. These restrictions limit access to schools, healthcare, and employment opportunities."
+        "A": "According to Human Rights Watch, movement restrictions, including over 500 checkpoints and the separation wall, severely limit Palestinian access to basic services, violating their rights under international law."
     },
     {
         "Q": "Are Israeli airstrikes in Gaza proportionate?",
-        "A": "Israel has carried out numerous bombing campaigns in Gaza, resulting in civilian casualties and widespread destruction of infrastructure. These bombings often target densely populated areas, leading to high numbers of civilian deaths and injuries."
+        "A": "Investigations by the UN and human rights groups reveal that Israeli airstrikes often target densely populated civilian areas, violating principles of proportionality under the laws of armed conflict."
     },
     {
         "Q": "Is land confiscation in the West Bank legal?",
-        "A": "Israel continues to confiscate Palestinian land for the expansion of settlements and the construction of infrastructure such as roads and security barriers. This land confiscation further undermines the viability of a future Palestinian state."
+        "A": "The expropriation of Palestinian land for settlements and infrastructure violates international law, including the Hague Regulations and the Fourth Geneva Convention, which prohibit the transfer of an occupying power’s population into occupied territory."
     }
 ]
