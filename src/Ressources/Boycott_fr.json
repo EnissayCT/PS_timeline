@@ -1,0 +1,307 @@
+{
+    "sectors": {
+        "fr": {
+            "food": "Alimentation & Boissons",
+            "finance": "Finance & Assurance",
+            "retail": "Commerce & Mode",
+            "tech": "Technologie",
+            "consumer": "Biens de Consommation"
+        }
+    },
+    "companies": [
+        {
+            "id": 1,
+            "name": "Starbucks",
+            "sector": "food",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png",
+            "shortReason": "A poursuivi en justice les travailleurs syndiqués pour leurs déclarations de solidarité avec la Palestine.",
+            "fullDescription": "Starbucks a été ciblé pour boycott après que l'entreprise a poursuivi son syndicat de travailleurs, Starbucks Workers United, pour avoir publié un message de solidarité pro-Palestine sur les réseaux sociaux. L'entreprise a invoqué une violation de marque. De plus, l'ancien PDG Howard Schultz est un fervent défenseur d'Israël et a reçu des récompenses d'organisations pro-israéliennes. L'action juridique agressive de l'entreprise contre les travailleurs exprimant leur solidarité avec la Palestine a déclenché des appels massifs au boycott.",
+            "alternatives": ["Cafés locaux", "Dunkin'"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Starbucks Workers United", "url": "https://sbworkersunited.org/"}
+            ]
+        },
+        {
+            "id": 2,
+            "name": "McDonald's",
+            "sector": "food",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png",
+            "shortReason": "La franchise israélienne a fourni des milliers de repas gratuits aux soldats de Tsahal.",
+            "fullDescription": "La franchise McDonald's en Israël, Alonyal, a annoncé qu'elle fournirait des repas gratuits aux soldats de l'armée israélienne (Tsahal) et a fait don de milliers de repas pendant les opérations militaires à Gaza. Ce soutien direct à l'armée menant des opérations à Gaza a conduit à des appels massifs au boycott. Bien que McDonald's corporate se soit distancié des actions de la franchise, le mal était fait. Le boycott a été particulièrement efficace au Moyen-Orient et dans les pays à majorité musulmane.",
+            "alternatives": ["Restaurants de burgers locaux", "Fast-food indépendants"],
+            "sources": [
+                {"name": "Al Jazeera", "url": "https://www.aljazeera.com/"},
+                {"name": "Middle East Eye", "url": "https://www.middleeasteye.net/"}
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Coca-Cola",
+            "sector": "food",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png",
+            "shortReason": "Exploite une usine dans une colonie israélienne illégale et a une longue histoire d'investissement en Israël.",
+            "fullDescription": "Coca-Cola exploite une usine d'embouteillage dans la colonie israélienne illégale d'Atarot à Jérusalem-Est occupée. Selon le droit international, les colonies israéliennes dans les territoires palestiniens occupés sont illégales. L'entreprise maintient des investissements importants en Israël depuis des décennies et figure sur la liste de boycott BDS depuis des années. La présence de leur usine dans une colonie illégale contribue directement à l'économie des colonies et à la dépossession des Palestiniens.",
+            "alternatives": ["Boissons locales", "Pepsi"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Nestlé",
+            "sector": "food",
+            "severity": "medium",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Nestl%C3%A9.svg/1200px-Nestl%C3%A9.svg.png",
+            "shortReason": "Actionnaire majeur de L'Oréal et possède des opérations significatives en Israël.",
+            "fullDescription": "Nestlé, la plus grande entreprise alimentaire au monde, maintient des opérations commerciales importantes en Israël et est actionnaire majeur de L'Oréal, qui a ses propres liens problématiques. L'entreprise exploite des usines et des réseaux de distribution en Israël, contribuant à l'économie israélienne. Les critiques soutiennent que de tels liens commerciaux étendus aident à normaliser l'occupation.",
+            "alternatives": ["Marques locales", "Alternatives éthiques"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Ethical Consumer", "url": "https://www.ethicalconsumer.org/"}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "KFC",
+            "sector": "food",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/kfc.png?dxklM0jCOQ0hZ1YExlmHTgRFIkEo4Xhu&itok=mLhVA0m6",
+            "shortReason": "Filiale de Yum! Brands avec des franchises soutenant l'économie israélienne.",
+            "fullDescription": "KFC appartient à Yum! Brands, qui exploite des franchises en Israël. Comme d'autres chaînes de restauration rapide, KFC Israël opère au sein de l'économie israélienne et a été inclus dans les appels au boycott en raison de sa présence dans le pays pendant le conflit en cours. Les opérations de franchise contribuent à la normalisation des affaires pendant la crise humanitaire.",
+            "alternatives": ["Poulet frit local", "Restaurants indépendants"],
+            "sources": [
+                {"name": "Boycott Israel Campaign", "url": "https://www.inminds.com/boycott-israel.html"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Pizza Hut",
+            "sector": "food",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2776/brand.gif?itok=Z1amVYAG",
+            "shortReason": "Filiale de Yum! Brands avec des opérations de franchise israéliennes.",
+            "fullDescription": "Pizza Hut, une autre filiale de Yum! Brands, exploite des franchises dans tout Israël. La poursuite des opérations de l'entreprise en Israël en a fait une cible pour les campagnes de boycott. Les franchises en Israël contribuent à l'économie locale et aux impôts, ce qui, selon les critiques, soutient les politiques de l'État envers les Palestiniens.",
+            "alternatives": ["Pizzerias locales", "Alternatives Domino's"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Boycott Israel", "url": "https://www.inminds.com/boycott-israel.html"}
+            ]
+        },
+        {
+            "id": 7,
+            "name": "AXA",
+            "sector": "finance",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/1200px-AXA_Logo.svg.png",
+            "shortReason": "Investit des centaines de millions dans des banques israéliennes qui financent les colonies illégales.",
+            "fullDescription": "AXA, l'une des plus grandes compagnies d'assurance au monde, a investi plus de 100 millions de dollars dans des banques israéliennes qui financent la construction de colonies illégales en Cisjordanie occupée. AXA détient également des investissements dans Elbit Systems, le plus grand fabricant d'armes privé d'Israël qui produit des drones et des technologies de surveillance utilisés contre les Palestiniens. Malgré des années de campagne, AXA a refusé de se désengager de ces entreprises complices.",
+            "alternatives": ["Allianz", "Assureurs locaux"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Campagne AXA Divest", "url": "https://www.yourfundsyourchoice.org/"}
+            ]
+        },
+        {
+            "id": 8,
+            "name": "HSBC",
+            "sector": "finance",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1200px-HSBC_logo_%282018%29.svg.png",
+            "shortReason": "Fournit des services bancaires à des entreprises d'armement israéliennes et des entreprises de colonies.",
+            "fullDescription": "HSBC a été identifiée comme fournissant des services financiers à des entreprises impliquées dans l'occupation israélienne, y compris des fabricants d'armes et des entreprises opérant dans des colonies illégales. La banque détient des actions dans des entreprises comme Elbit Systems et Caterpillar. Les investissements de HSBC contribuent directement à l'infrastructure de l'occupation.",
+            "alternatives": ["Banques éthiques", "Coopératives de crédit", "Triodos Bank"],
+            "sources": [
+                {"name": "War on Want", "url": "https://waronwant.org/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Barclays",
+            "sector": "finance",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Barclays_logo.svg/1200px-Barclays_logo.svg.png",
+            "shortReason": "Investisseur majeur dans des entreprises d'armement fournissant des armes à Israël.",
+            "fullDescription": "Barclays est l'un des plus grands investisseurs dans des entreprises d'armement qui fournissent des armes à Israël, notamment Elbit Systems, BAE Systems et Raytheon. Ces entreprises fabriquent des drones, des missiles et des équipements de surveillance utilisés dans les opérations militaires contre les Palestiniens. Des mouvements étudiants et militants dans le monde entier ont appelé au désinvestissement de Barclays.",
+            "alternatives": ["Nationwide", "Banque Coopérative", "Alternatives éthiques"],
+            "sources": [
+                {"name": "Palestine Solidarity Campaign", "url": "https://www.palestinecampaign.org/"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Carrefour",
+            "sector": "retail",
+            "severity": "high",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092011/untitled-1_23.png?itok=gYvL7s9X",
+            "shortReason": "Exploite des magasins dans des colonies israéliennes illégales et a signé un accord avec le gouvernement israélien.",
+            "fullDescription": "Carrefour, le géant français de la distribution, exploite des magasins franchisés dans des colonies israéliennes illégales en Cisjordanie occupée par l'intermédiaire de son franchisé israélien. En 2023, Carrefour Israël a signé un accord de coopération avec le ministère israélien de l'Économie, renforçant ainsi ses liens avec l'État pendant ses opérations militaires. L'entreprise profite de l'occupation en opérant dans des territoires illégaux selon le droit international.",
+            "alternatives": ["Supermarchés locaux", "Lidl", "Aldi"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Don't Buy Into Occupation", "url": "https://dontbuyintooccupation.org/"}
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Puma",
+            "sector": "retail",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Puma_complete_logo.svg/1200px-Puma_complete_logo.svg.png",
+            "shortReason": "Sponsor de l'Association Israélienne de Football qui inclut des équipes des colonies illégales.",
+            "fullDescription": "Puma est le sponsor principal de l'Association Israélienne de Football (IFA), qui gouverne des équipes basées dans des colonies israéliennes illégales en territoire palestinien occupé. Ces colonies sont illégales selon le droit international, et le parrainage de Puma aide à normaliser et légitimer ces colonies. La campagne #BoycottPuma a été active à l'échelle mondiale.",
+            "alternatives": ["Adidas", "New Balance", "Marques locales"],
+            "sources": [
+                {"name": "Boycott Puma", "url": "https://boycott-puma.org/"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Marks & Spencer",
+            "sector": "retail",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112013/marks_and_spencer_logo.ai-converted.png?itok=-9nXEfRh",
+            "shortReason": "Importe des produits d'Israël, y compris des produits des colonies.",
+            "fullDescription": "Marks & Spencer entretient des relations commerciales de longue date avec Israël et importe divers produits du pays, y compris de zones situées dans ou près des colonies illégales. Les fournisseurs israéliens de l'entreprise ont été critiqués pour leur proximité avec les activités d'occupation. M&S a fait face à des protestations constantes et des appels au boycott.",
+            "alternatives": ["Primark", "H&M", "Détaillants locaux"],
+            "sources": [
+                {"name": "Palestine Solidarity Campaign", "url": "https://www.palestinecampaign.org/"},
+                {"name": "Inminds", "url": "https://www.inminds.com/"}
+            ]
+        },
+        {
+            "id": 13,
+            "name": "HP Inc.",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/1200px-HP_logo_2012.svg.png",
+            "shortReason": "Fournit la technologie pour les checkpoints, prisons et opérations militaires israéliens.",
+            "fullDescription": "HP (Hewlett-Packard) fournit la technologie qui alimente le système de checkpoints israélien, qui restreint les déplacements palestiniens. La technologie HP est également utilisée dans le système carcéral israélien. Les serveurs et systèmes de l'entreprise soutiennent le système d'identification biométrique de l'Autorité de la population qui discrimine les Palestiniens.",
+            "alternatives": ["Dell", "Lenovo", "ASUS"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Google",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png",
+            "shortReason": "Project Nimbus fournit des services cloud à l'armée et au gouvernement israéliens.",
+            "fullDescription": "Google, avec Amazon, a signé Project Nimbus, un contrat de 1,2 milliard de dollars pour fournir des services de cloud computing au gouvernement et à l'armée israéliens. Cette technologie peut être utilisée pour la surveillance et les opérations militaires contre les Palestiniens. Les employés de Google ont protesté contre le contrat via la campagne 'No Tech for Apartheid'.",
+            "alternatives": ["Proton", "DuckDuckGo", "Ecosia"],
+            "sources": [
+                {"name": "No Tech For Apartheid", "url": "https://www.notechforapartheid.com/"},
+                {"name": "The Guardian", "url": "https://www.theguardian.com/"}
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Amazon",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png",
+            "shortReason": "Project Nimbus fournit l'infrastructure cloud à l'armée et aux renseignements israéliens.",
+            "fullDescription": "Amazon Web Services (AWS) est partenaire du Project Nimbus, le contrat de 1,2 milliard de dollars fournissant des services cloud au gouvernement israélien, y compris l'armée et les agences de renseignement. La technologie AWS permet le stockage de données et les capacités d'IA qui peuvent soutenir les opérations militaires et la surveillance des Palestiniens.",
+            "alternatives": ["Détaillants locaux", "Boutiques en ligne éthiques", "eBay"],
+            "sources": [
+                {"name": "No Tech For Apartheid", "url": "https://www.notechforapartheid.com/"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Microsoft",
+            "sector": "tech",
+            "severity": "medium",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1200px-Microsoft_logo_%282012%29.svg.png",
+            "shortReason": "Fournit des services cloud et de l'IA à l'armée et aux services de sécurité israéliens.",
+            "fullDescription": "Microsoft Azure fournit des services cloud au gouvernement israélien et a des contrats avec les agences de sécurité israéliennes. La technologie de l'entreprise, y compris l'IA et l'infrastructure cloud, soutient les opérations militaires et de surveillance israéliennes. Microsoft a également investi dans des startups technologiques israéliennes liées au complexe militaro-industriel.",
+            "alternatives": ["LibreOffice", "Linux", "Alternatives open source"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 17,
+            "name": "L'Oréal",
+            "sector": "consumer",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/2125/brand.gif?itok=9H79h1nR",
+            "shortReason": "Exploite des installations de fabrication en Israël et a des liens commerciaux profonds.",
+            "fullDescription": "L'Oréal a des opérations importantes en Israël, y compris des installations de recherche et développement. L'entreprise a été ciblée pour boycott en raison de ses contributions économiques à Israël et de son refus de se désengager. La présence étendue de L'Oréal sur le marché israélien aide à soutenir l'économie pendant l'occupation en cours.",
+            "alternatives": ["The Body Shop", "Lush", "Cosmétiques locaux"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Ethical Consumer", "url": "https://www.ethicalconsumer.org/"}
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Estée Lauder",
+            "sector": "consumer",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/untitled-1_171.png?itok=aEtznZK2",
+            "shortReason": "La famille fondatrice a de forts liens sionistes et des dons significatifs à Israël.",
+            "fullDescription": "Estée Lauder Companies a des liens profonds avec Israël à travers sa famille fondatrice. Ronald Lauder, président émérite de l'entreprise, est un donateur majeur aux causes pro-israéliennes et a été président du Congrès Juif Mondial. La famille a fait des dons significatifs aux institutions israéliennes et aux projets de colonies.",
+            "alternatives": ["Lush", "The Body Shop", "E.l.f. Cosmetics"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 19,
+            "name": "SodaStream",
+            "sector": "consumer",
+            "severity": "high",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092012/soda_stream.png?itok=jPeI2JW-",
+            "shortReason": "Entreprise israélienne qui opérait auparavant dans une colonie illégale de Cisjordanie.",
+            "fullDescription": "SodaStream est une entreprise israélienne qui exploitait auparavant son usine principale dans la colonie illégale de Ma'ale Adumim en Cisjordanie occupée. Bien qu'elle ait déplacé ses opérations dans le sud d'Israël après la pression du boycott, elle reste une entreprise israélienne qui bénéficie et contribue à l'économie israélienne. La campagne BDS réussie contre SodaStream est considérée comme une victoire majeure.",
+            "alternatives": ["Fabricants d'eau gazeuse locaux", "Alternatives traditionnelles"],
+            "sources": [
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Oracle",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1200px-Oracle_logo.svg.png",
+            "shortReason": "Fournit l'infrastructure cloud et la technologie de base de données au gouvernement et à l'armée israéliens.",
+            "fullDescription": "Oracle a des contrats importants avec le gouvernement israélien et fournit une technologie de base de données et d'infrastructure cloud utilisée par les institutions israéliennes. La technologie d'Oracle alimente les systèmes gouvernementaux israéliens critiques. L'entreprise a étendu sa présence en Israël avec des centres de données et des investissements continus.",
+            "alternatives": ["PostgreSQL", "MariaDB", "Bases de données open source"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 21,
+            "name": "IBM",
+            "sector": "tech",
+            "severity": "medium",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1200px-IBM_logo.svg.png",
+            "shortReason": "Présence de longue date en Israël avec des centres R&D et des contrats gouvernementaux.",
+            "fullDescription": "IBM maintient une présence significative en Israël depuis des décennies, exploitant plusieurs centres de recherche et développement. L'entreprise a des contrats avec des agences gouvernementales israéliennes et sa technologie est utilisée dans toute l'infrastructure israélienne. L'investissement continu d'IBM contribue à l'écosystème technologique qui soutient l'État.",
+            "alternatives": ["Alternatives Red Hat", "Solutions open source", "Fournisseurs IT locaux"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "Mouvement BDS", "url": "https://bdsmovement.net/"}
+            ]
+        }
+    ]
+}

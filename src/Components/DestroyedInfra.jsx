@@ -1,12 +1,15 @@
 import React from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
+// Updated data based on UN OCHA and Gaza Government reports (February 2026)
+// Sources: Al Jazeera, UN OCHA, WHO
 const data = [
-    { name: 'Hospitals', destroyed: 31, total: 36 },
-    { name: 'Schools', destroyed: 405, total: 451 },
-    { name: 'Houses', destroyed: 161600, total: 200000 },
-    { name: 'Mosques', destroyed: 966, total: 1115 },
-    { name: 'Sports Facilities', destroyed: 146, total: 300 },
+    { name: 'Hospitals', destroyed: 34, total: 36 }, // Almost all hospitals non-functional
+    { name: 'Schools', destroyed: 420, total: 451 }, // 93% of school buildings damaged
+    { name: 'Houses', destroyed: 200000, total: 200000 }, // Almost all homes damaged or destroyed
+    { name: 'Mosques', destroyed: 1115, total: 1115 }, // All mosques damaged or destroyed
+    { name: 'Roads', destroyed: 750, total: 1000 }, // 75% of road networks
+    { name: 'Cropland', destroyed: 800, total: 1000 }, // 80% of cropland destroyed
 ];
 
 const translations = {
@@ -15,7 +18,8 @@ const translations = {
         Schools: 'Schools',
         Houses: 'Houses',
         Mosques: 'Mosques',
-        'Sports Facilities': 'Sports Facilities',
+        Roads: 'Roads',
+        Cropland: 'Cropland',
         Destroyed: 'Destroyed',
         Remaining: 'Remaining',
         Percentage: 'Percentage',
@@ -25,7 +29,8 @@ const translations = {
         Schools: 'Écoles',
         Houses: 'Maisons',
         Mosques: 'Mosquées',
-        'Sports Facilities': 'Installations sportives',
+        Roads: 'Routes',
+        Cropland: 'Terres agricoles',
         Destroyed: 'Détruit',
         Remaining: 'Restant',
         Percentage: 'Pourcentage',
@@ -35,7 +40,8 @@ const translations = {
         Schools: 'المدارس',
         Houses: 'المنازل',
         Mosques: 'المساجد',
-        'Sports Facilities': 'المنشآت الرياضية',
+        Roads: 'الطرق',
+        Cropland: 'الأراضي الزراعية',
         Destroyed: 'مدمر',
         Remaining: 'المتبقي',
         Percentage: 'النسبة المئوية',

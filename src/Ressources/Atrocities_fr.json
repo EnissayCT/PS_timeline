@@ -221,6 +221,138 @@
         "title": "Chiens de Tsahal",
         "description": "L'armée israélienne a utilisé des chiens policiers pour attaquer systématiquement les civils palestiniens lors d'opérations militaires dans la bande de Gaza. Les chiens ont également été utilisés pour intimider, battre et agresser sexuellement les prisonniers et les détenus dans les centres de détention israéliens.",
         "image": "https://cdn.siasat.com/wp-content/uploads/2024/06/Israel-dog-Palestinian.jpg"
+    },
+    {
+        "date": "17 octobre 2023",
+        "title": "Bombardement de l'Hôpital Al-Ahli",
+        "description": "Une explosion massive à l'hôpital Al-Ahli de Gaza a tué au moins 500 Palestiniens cherchant refuge. La cour de l'hôpital était bondée de familles déplacées lorsqu'elle a été frappée, causant l'un des incidents les plus meurtriers de la guerre.",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/231019124024-01-al-ahli-baptist-hospital-blast-101823.jpg?c=original"
+    },
+    {
+        "date": "31 octobre 2023",
+        "title": "Bombardement du Camp de Réfugiés de Jabalia",
+        "description": "Des frappes aériennes israéliennes sur le camp de réfugiés de Jabalia, le plus grand de Gaza, ont tué plus de 110 Palestiniens et blessé des centaines. Les frappes ont détruit des blocs résidentiels entiers, de nombreuses victimes étant ensevelies sous les décombres.",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/11/2023-11-01T144821Z_1885902875_RC2744AGAXVN_RTRMADP_3_ISRAEL-PALESTINIANS-1024x741.jpg"
+    },
+    {
+        "date": "Novembre 2023",
+        "title": "Siège de l'Hôpital Al-Shifa",
+        "description": "Les forces israéliennes ont assiégé l'hôpital Al-Shifa, la plus grande installation médicale de Gaza, coupant l'électricité, l'eau et les fournitures. Des patients sous assistance respiratoire sont morts, et des bébés prématurés en couveuses ont péri.",
+        "image": "https://www.doctorswithoutborders.org/sites/default/files/styles/crop_article_mobile_335_189/public/Al%20Shifa%20compound_2%C2%A9MSF.jpeg?h=6264fada&itok=0uMYnM3N"
+    },
+    {
+        "date": "Décembre 2023",
+        "title": "Exécution de Palestiniens Torse Nu",
+        "description": "Des vidéos ont émergé montrant des soldats israéliens exécutant trois hommes palestiniens torse nu qui agitaient des drapeaux blancs à Gaza. Les hommes étaient désarmés et tentaient de se rendre lorsqu'ils ont été abattus.",
+        "image": "https://i.guim.co.uk/img/media/a1e5fb4c23b9cc4d878db47608d91f89e4c8a3f7/60_0_1800_1080/master/1800.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=fe1b2d31c3b797f28e929b92a77a4299"
+    },
+    {
+        "date": "Décembre 2023",
+        "title": "Attaques sur l'Hôpital Kamal Adwan",
+        "description": "Des attaques israéliennes répétées sur l'hôpital Kamal Adwan dans le nord de Gaza ont tué du personnel médical et des patients. Le directeur de l'hôpital a été détenu et torturé, et les installations médicales ont été systématiquement détruites.",
+        "image": "https://www.doctorswithoutborders.ca/kamal-adwan-hospital-in-north-gaza-it-is-disastrous/"
+    },
+    {
+        "date": "Janvier 2024",
+        "title": "Fosses Communes à l'Hôpital Al-Nasser",
+        "description": "Après le retrait des forces israéliennes du complexe de l'hôpital Al-Nasser, des fosses communes contenant plus de 400 corps ont été découvertes. De nombreuses victimes présentaient des signes d'exécution, notamment ligotées et les yeux bandés.",
+        "image": "https://www.amnesty.org/en/wp-content/uploads/2024/04/GettyImages-2147975015-scaled.jpg"
+    },
+    {
+        "date": "Février 2024",
+        "title": "Siège de l'Hôpital Al-Amal",
+        "description": "Les forces israéliennes ont assiégé l'hôpital Al-Amal à Khan Younès, piégeant le personnel médical, les patients et les civils déplacés pendant des semaines. Des tireurs d'élite ciblaient quiconque s'approchait de l'hôpital.",
+        "image": "https://img.msf.org/AssetLink/4j728thmv52j4178eo5qvw8g1868ox21.jpg"
+    },
+    {
+        "date": "Mars 2024",
+        "title": "Massacre du Convoi Humanitaire rue Al-Rashid",
+        "description": "Les forces israéliennes ont ouvert le feu sur des Palestiniens attendant de l'aide humanitaire dans la rue Al-Rashid à Gaza, tuant au moins 112 personnes et en blessant plus de 760. Les civils affamés attendaient des camions de nourriture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Palestinians_during_the_Flour_massacre.png"
+    },
+    {
+        "date": "Avril 2024",
+        "title": "Meurtre de Travailleurs Humanitaires de World Central Kitchen",
+        "description": "Une frappe aérienne israélienne a délibérément ciblé un convoi clairement marqué de World Central Kitchen, tuant sept travailleurs humanitaires internationaux. Les trois véhicules ont été frappés successivement malgré la coordination avec l'armée israélienne.",
+        "image": "https://images.axios.com/KwNTCppdLoLEh2tPeaTN9MonI-M=/0x0:1696x954/1920x1080/2024/04/03/1712162651541.jpg?w=1920"
+    },
+    {
+        "date": "Avril 2024",
+        "title": "Massacre du Camp d'Al-Maghazi",
+        "description": "Des frappes aériennes israéliennes sur le camp de réfugiés d'Al-Maghazi dans le centre de Gaza ont tué plus de 70 Palestiniens, principalement des femmes et des enfants. Les frappes ont touché des bâtiments résidentiels abritant des familles déplacées.",
+        "image": "https://mondoweiss.net/wp-content/uploads/2023/12/251223_Maghaze_OSH_0010-1024x683.jpg"
+    },
+    {
+        "date": "Mai 2024",
+        "title": "Invasion Terrestre de Rafah",
+        "description": "Malgré les avertissements internationaux et les ordres de la CIJ, Israël a lancé une invasion terrestre de Rafah, où plus de 1,4 million de Palestiniens déplacés avaient cherché refuge. L'invasion a causé des déplacements massifs et la destruction de la dernière 'zone sûre' à Gaza.",
+        "image": "https://pchrgaza.org/wp-content/uploads/2024/05/532882.jpeg"
+    },
+    {
+        "date": "Juillet 2024",
+        "title": "Massacre de l'École de Deir al-Balah",
+        "description": "Une frappe aérienne israélienne sur l'école Al-Tabieen à Deir al-Balah, abritant des familles déplacées, a tué au moins 90 Palestiniens pendant les prières de l'aube. L'école était bondée de réfugiés.",
+        "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/12/22/360512.jpg"
+    },
+    {
+        "date": "Août 2024",
+        "title": "Massacre de l'École Al-Tabeen",
+        "description": "Dans l'un des incidents les plus meurtriers, des frappes aériennes israéliennes sur l'école Al-Tabeen à Gaza ont tué plus de 100 Palestiniens qui s'y abritaient. L'attaque s'est produite pendant les prières du Fajr, avec des corps brûlés au-delà de toute reconnaissance.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2024/08/2024-08-10T123851Z_509123576_RC2UC9AFKAAY_RTRMADP_3_ISRAEL-PALESTINIANS-1723558005.jpg?w=770&resize=770%2C526"
+    },
+    {
+        "date": "Octobre 2024",
+        "title": "Nettoyage Ethnique de Jabalia",
+        "description": "Israël a mis en œuvre un plan pour vider complètement le nord de Gaza, en particulier Jabalia, de sa population. Des quartiers entiers ont été rasés, et ceux qui refusaient de partir ont été tués. L'opération impliquait une destruction systématique.",
+        "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/10/18/thumbs_b_c_ad4c5e8d22dfc4412cf903dc125a3f2a.jpg?v=192000"
+    },
+    {
+        "date": "Octobre 2024",
+        "title": "Effondrement de la Tour Résidentielle de Beit Lahia",
+        "description": "Des frappes aériennes israéliennes sur un immeuble résidentiel de cinq étages à Beit Lahia ont tué au moins 93 Palestiniens, dont 25 enfants. Le bâtiment abritait plusieurs familles déplacées.",
+        "image": "https://www.alhaq.org/cached_uploads/fit/650/315/alhaq_files/images/stories/Images/2012/n-GAZA-large570.jpg"
+    },
+    {
+        "date": "Novembre 2024",
+        "title": "Assaut Final sur l'Hôpital Kamal Adwan",
+        "description": "Les forces israéliennes ont lancé un assaut final sur l'hôpital Kamal Adwan, arrêtant le personnel médical dont le directeur, et forçant l'évacuation de tous les patients. L'hôpital a été complètement détruit.",
+        "image": "https://euromedmonitor.org/img.php?src=http://euromedmonitor.org/uploads/Gaza-Kamal-Adwan-Hospital-area.jpg&crop-to-fit"
+    },
+    {
+        "date": "Décembre 2024",
+        "title": "Bombardement d'Écoles à Nuseirat",
+        "description": "Des frappes israéliennes sur des écoles du camp de réfugiés de Nuseirat abritant des familles déplacées ont tué plus de 70 Palestiniens. Les attaques ont eu lieu pendant la nuit alors que les familles dormaient.",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-20687884-20346-still.jpg?c=16x9"
+    },
+    {
+        "date": "Janvier 2025",
+        "title": "Destruction Systématique du Nord de Gaza",
+        "description": "En janvier 2025, Israël avait systématiquement détruit toutes les infrastructures du nord de Gaza. Des images satellites montraient une dévastation complète de quartiers entiers, les experts de l'ONU déclarant que la destruction semblait conçue pour rendre la zone inhabitable.",
+        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/04-03-2024-UNRWA-Gaza-01.jpg/image770x420cropped.jpg"
+    },
+    {
+        "date": "2023 - actuel",
+        "title": "Violence Sexuelle Systématique en Détention",
+        "description": "De multiples enquêtes de l'ONU et d'organisations de droits humains ont documenté la violence sexuelle et le viol systématiques de détenus palestiniens dans les centres de détention israéliens, y compris Sde Teiman.",
+        "image": "https://theintercept.com/wp-content/uploads/2024/08/Sde-Teiman-Channel-12-screenshot-e1723225715587.jpg?fit=2628%2C1314"
+    },
+    {
+        "date": "2023 - actuel",
+        "title": "Torture au Camp de Détention de Sde Teiman",
+        "description": "La base militaire de Sde Teiman a été convertie en centre de détention où les détenus palestiniens ont subi des tortures systématiques, notamment des passages à tabac, des chocs électriques, des abus sexuels et des positions de stress prolongées.",
+        "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/08/02/thumbs_b_c_a43c6b0d8b57449ed119f1cb34bb3ee7.jpg?v=174051"
+    },
+    {
+        "date": "2023 - actuel",
+        "title": "Ciblage du Personnel Médical",
+        "description": "Plus de 500 travailleurs médicaux ont été tués à Gaza depuis octobre 2023, beaucoup délibérément ciblés pendant leur service. Les ambulances ont été frappées à plusieurs reprises, et les équipes médicales attaquées.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBl9Ekg5dMswFDNsIQZV0YjTnfC5UTvs1gg&s"
+    },
+    {
+        "date": "2023 - actuel",
+        "title": "Famine Utilisée comme Arme",
+        "description": "Le blocus complet d'Israël a empêché la nourriture, l'eau et l'aide humanitaire d'entrer à Gaza, utilisant délibérément la famine comme arme de guerre. Des enfants sont morts de malnutrition et de déshydratation.",
+        "image": "https://arabcenterdc.org/wp-content/uploads/2025/06/Gaza-Famine-Food-Aid-768x432.jpg"
     }
     
 ]

@@ -1,28 +1,30 @@
 import React, { useEffect, useState } from 'react';
 import { PieChart, Pie, Cell, Tooltip, Legend } from 'recharts';
 
+// Updated healthcare worker casualties (February 2026)
+// Source: WHO, Gaza Health Ministry
 const medicalWorkersDataEn = [
-  { name: "Doctors", value: 165 },
-  { name: "Nurses", value: 260 },
-  { name: "Health Associates", value: 184 },
-  { name: "Pharmacists", value: 76 },
-  { name: "Management & Support Staff", value: 300 },
+  { name: "Doctors", value: 335 },
+  { name: "Nurses", value: 455 },
+  { name: "Health Associates", value: 250 },
+  { name: "Pharmacists", value: 103 },
+  { name: "Management & Support Staff", value: 157 },
 ];
 
 const medicalWorkersDataFr = [
-  { name: "Médecins", value: 165 },
-  { name: "Infirmières", value: 260 },
-  { name: "Associés de santé", value: 184 },
-  { name: "Pharmaciens", value: 76 },
-  { name: "Personnel de gestion et de soutien", value: 300 },
+  { name: "Médecins", value: 335 },
+  { name: "Infirmières", value: 455 },
+  { name: "Associés de santé", value: 250 },
+  { name: "Pharmaciens", value: 103 },
+  { name: "Personnel de gestion et de soutien", value: 157 },
 ];
 
 const medicalWorkersDataAr = [
-  { name: "الأطباء", value: 165 },
-  { name: "الممرضات", value: 260 },
-  { name: "مساعدي الصحة", value: 184 },
-  { name: "الصيادلة", value: 76 },
-  { name: "إدارة وموظفي الدعم", value: 300 },
+  { name: "الأطباء", value: 335 },
+  { name: "الممرضات", value: 455 },
+  { name: "مساعدي الصحة", value: 250 },
+  { name: "الصيادلة", value: 103 },
+  { name: "إدارة وموظفي الدعم", value: 157 },
 ];
 
 const COLORS = ["#800080", "#8A2BE2", "#9370DB", "#BA55D3", "#DDA0DD"];

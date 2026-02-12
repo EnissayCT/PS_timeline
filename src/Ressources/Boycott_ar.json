@@ -1,0 +1,307 @@
+{
+    "sectors": {
+        "ar": {
+            "food": "الأغذية والمشروبات",
+            "finance": "المالية والتأمين",
+            "retail": "التجزئة والأزياء",
+            "tech": "التكنولوجيا",
+            "consumer": "السلع الاستهلاكية"
+        }
+    },
+    "companies": [
+        {
+            "id": 1,
+            "name": "ستاربكس",
+            "sector": "food",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png",
+            "shortReason": "رفعت دعوى قضائية ضد عمال النقابة بسبب تصريحاتهم المتضامنة مع فلسطين.",
+            "fullDescription": "تم استهداف ستاربكس للمقاطعة بعد أن رفعت الشركة دعوى قضائية ضد نقابة العمال، ستاربكس وركرز يونايتد، بسبب نشرها رسالة تضامنية مع فلسطين على وسائل التواصل الاجتماعي. ادعت الشركة انتهاك العلامة التجارية. بالإضافة إلى ذلك، فإن الرئيس التنفيذي السابق هوارد شولتز معروف بدعمه لإسرائيل وحصل على جوائز من منظمات مؤيدة لإسرائيل.",
+            "alternatives": ["المقاهي المحلية", "دانكن"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "ستاربكس وركرز يونايتد", "url": "https://sbworkersunited.org/"}
+            ]
+        },
+        {
+            "id": 2,
+            "name": "ماكدونالدز",
+            "sector": "food",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png",
+            "shortReason": "قدمت الامتياز الإسرائيلي آلاف الوجبات المجانية لجنود الجيش الإسرائيلي.",
+            "fullDescription": "أعلن امتياز ماكدونالدز في إسرائيل، ألونيال، أنه سيوفر وجبات مجانية لجنود جيش الدفاع الإسرائيلي وتبرع بآلاف الوجبات أثناء العمليات العسكرية في غزة. هذا الدعم المباشر للجيش الذي يقوم بعمليات في غزة أدى إلى دعوات واسعة للمقاطعة.",
+            "alternatives": ["مطاعم البرغر المحلية", "الوجبات السريعة المستقلة"],
+            "sources": [
+                {"name": "الجزيرة", "url": "https://www.aljazeera.com/"},
+                {"name": "ميدل إيست آي", "url": "https://www.middleeasteye.net/"}
+            ]
+        },
+        {
+            "id": 3,
+            "name": "كوكاكولا",
+            "sector": "food",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png",
+            "shortReason": "تدير مصنعًا في مستوطنة إسرائيلية غير قانونية ولها تاريخ طويل من الاستثمار في إسرائيل.",
+            "fullDescription": "تدير كوكاكولا مصنع تعبئة في مستوطنة عطاروت الإسرائيلية غير القانونية في القدس الشرقية المحتلة. بموجب القانون الدولي، تعتبر المستوطنات الإسرائيلية في الأراضي الفلسطينية المحتلة غير قانونية.",
+            "alternatives": ["المشروبات المحلية", "بيبسي"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 4,
+            "name": "نستله",
+            "sector": "food",
+            "severity": "medium",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Nestl%C3%A9.svg/1200px-Nestl%C3%A9.svg.png",
+            "shortReason": "مساهم رئيسي في لوريال ولديها عمليات كبيرة في إسرائيل.",
+            "fullDescription": "نستله، أكبر شركة غذائية في العالم، تحافظ على عمليات تجارية كبيرة في إسرائيل وهي مساهم رئيسي في لوريال. تدير الشركة مصانع وشبكات توزيع في إسرائيل، مما يساهم في الاقتصاد الإسرائيلي.",
+            "alternatives": ["العلامات التجارية المحلية", "البدائل الأخلاقية"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Ethical Consumer", "url": "https://www.ethicalconsumer.org/"}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "كنتاكي",
+            "sector": "food",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012023/kfc.png?dxklM0jCOQ0hZ1YExlmHTgRFIkEo4Xhu&itok=mLhVA0m6",
+            "shortReason": "شركة تابعة ليوم براندز مع فروع امتياز تدعم الاقتصاد الإسرائيلي.",
+            "fullDescription": "كنتاكي مملوكة ليوم براندز، التي تدير مواقع امتياز في إسرائيل. مثل سلاسل الوجبات السريعة الأخرى، تعمل كنتاكي إسرائيل ضمن الاقتصاد الإسرائيلي وتم تضمينها في دعوات المقاطعة.",
+            "alternatives": ["الدجاج المقلي المحلي", "المطاعم المستقلة"],
+            "sources": [
+                {"name": "حملة مقاطعة إسرائيل", "url": "https://www.inminds.com/boycott-israel.html"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 6,
+            "name": "بيتزا هت",
+            "sector": "food",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2776/brand.gif?itok=Z1amVYAG",
+            "shortReason": "شركة تابعة ليوم براندز مع عمليات امتياز إسرائيلية.",
+            "fullDescription": "بيتزا هت، شركة تابعة أخرى ليوم براندز، تدير مواقع امتياز في جميع أنحاء إسرائيل. استمرار عمليات الشركة في إسرائيل جعلها هدفًا لحملات المقاطعة.",
+            "alternatives": ["مطاعم البيتزا المحلية", "بدائل دومينوز"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "مقاطعة إسرائيل", "url": "https://www.inminds.com/boycott-israel.html"}
+            ]
+        },
+        {
+            "id": 7,
+            "name": "أكسا",
+            "sector": "finance",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/1200px-AXA_Logo.svg.png",
+            "shortReason": "تستثمر مئات الملايين في البنوك الإسرائيلية التي تمول المستوطنات غير القانونية.",
+            "fullDescription": "استثمرت أكسا، إحدى أكبر شركات التأمين في العالم، أكثر من 100 مليون دولار في البنوك الإسرائيلية التي تمول بناء المستوطنات غير القانونية. تمتلك أكسا أيضًا استثمارات في إلبيت سيستمز، أكبر مصنع أسلحة خاص في إسرائيل.",
+            "alternatives": ["أليانز", "شركات التأمين المحلية"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "حملة سحب الاستثمارات من أكسا", "url": "https://www.yourfundsyourchoice.org/"}
+            ]
+        },
+        {
+            "id": 8,
+            "name": "HSBC",
+            "sector": "finance",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1200px-HSBC_logo_%282018%29.svg.png",
+            "shortReason": "تقدم خدمات مصرفية لشركات الأسلحة الإسرائيلية وشركات المستوطنات.",
+            "fullDescription": "تم تحديد HSBC على أنها تقدم خدمات مالية لشركات متورطة في الاحتلال الإسرائيلي، بما في ذلك مصنعي الأسلحة والشركات العاملة في المستوطنات غير القانونية.",
+            "alternatives": ["البنوك الأخلاقية", "الاتحادات الائتمانية", "بنك تريودوس"],
+            "sources": [
+                {"name": "War on Want", "url": "https://waronwant.org/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 9,
+            "name": "باركليز",
+            "sector": "finance",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Barclays_logo.svg/1200px-Barclays_logo.svg.png",
+            "shortReason": "مستثمر رئيسي في شركات الأسلحة التي تزود إسرائيل بالأسلحة.",
+            "fullDescription": "باركليز هي واحدة من أكبر المستثمرين في شركات الأسلحة التي تزود إسرائيل بالأسلحة، بما في ذلك إلبيت سيستمز وBAE Systems وRaytheon.",
+            "alternatives": ["نيشن وايد", "البنك التعاوني", "البدائل الأخلاقية"],
+            "sources": [
+                {"name": "حملة التضامن مع فلسطين", "url": "https://www.palestinecampaign.org/"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 10,
+            "name": "كارفور",
+            "sector": "retail",
+            "severity": "high",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092011/untitled-1_23.png?itok=gYvL7s9X",
+            "shortReason": "تدير متاجر في مستوطنات إسرائيلية غير قانونية ووقعت اتفاقية مع الحكومة الإسرائيلية.",
+            "fullDescription": "تدير كارفور، عملاق التجزئة الفرنسي، متاجر امتياز في المستوطنات الإسرائيلية غير القانونية في الضفة الغربية المحتلة. في عام 2023، وقعت كارفور إسرائيل اتفاقية تعاون مع وزارة الاقتصاد الإسرائيلية.",
+            "alternatives": ["السوبرماركت المحلية", "ليدل", "ألدي"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Don't Buy Into Occupation", "url": "https://dontbuyintooccupation.org/"}
+            ]
+        },
+        {
+            "id": 11,
+            "name": "بوما",
+            "sector": "retail",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Puma_complete_logo.svg/1200px-Puma_complete_logo.svg.png",
+            "shortReason": "ترعى الاتحاد الإسرائيلي لكرة القدم الذي يشمل فرقًا في المستوطنات غير القانونية.",
+            "fullDescription": "بوما هي الراعي الرئيسي للاتحاد الإسرائيلي لكرة القدم (IFA)، الذي يحكم فرق كرة القدم الموجودة في المستوطنات الإسرائيلية غير القانونية على الأراضي الفلسطينية المحتلة.",
+            "alternatives": ["أديداس", "نيو بالانس", "العلامات التجارية المحلية"],
+            "sources": [
+                {"name": "مقاطعة بوما", "url": "https://boycott-puma.org/"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 12,
+            "name": "ماركس آند سبنسر",
+            "sector": "retail",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112013/marks_and_spencer_logo.ai-converted.png?itok=-9nXEfRh",
+            "shortReason": "تستورد منتجات من إسرائيل بما في ذلك منتجات المستوطنات.",
+            "fullDescription": "ماركس آند سبنسر لديها علاقات تجارية طويلة الأمد مع إسرائيل وتستورد منتجات مختلفة من البلاد، بما في ذلك من مناطق قريبة من المستوطنات غير القانونية.",
+            "alternatives": ["بريمارك", "H&M", "تجار التجزئة المحليين"],
+            "sources": [
+                {"name": "حملة التضامن مع فلسطين", "url": "https://www.palestinecampaign.org/"},
+                {"name": "Inminds", "url": "https://www.inminds.com/"}
+            ]
+        },
+        {
+            "id": 13,
+            "name": "HP",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/1200px-HP_logo_2012.svg.png",
+            "shortReason": "توفر التكنولوجيا لنقاط التفتيش والسجون والعمليات العسكرية الإسرائيلية.",
+            "fullDescription": "توفر HP التكنولوجيا التي تشغل نظام نقاط التفتيش الإسرائيلي، الذي يقيد حركة الفلسطينيين. كما تُستخدم تكنولوجيا HP في نظام السجون الإسرائيلي.",
+            "alternatives": ["ديل", "لينوفو", "أسوس"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 14,
+            "name": "جوجل",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png",
+            "shortReason": "مشروع نيمبوس يوفر خدمات سحابية للجيش والحكومة الإسرائيلية.",
+            "fullDescription": "وقعت جوجل، مع أمازون، مشروع نيمبوس، عقد بقيمة 1.2 مليار دولار لتوفير خدمات الحوسبة السحابية للحكومة والجيش الإسرائيليين. احتج موظفو جوجل على العقد من خلال حملة 'لا تكنولوجيا للفصل العنصري'.",
+            "alternatives": ["بروتون", "DuckDuckGo", "إيكوسيا"],
+            "sources": [
+                {"name": "No Tech For Apartheid", "url": "https://www.notechforapartheid.com/"},
+                {"name": "الغارديان", "url": "https://www.theguardian.com/"}
+            ]
+        },
+        {
+            "id": 15,
+            "name": "أمازون",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png",
+            "shortReason": "مشروع نيمبوس يوفر البنية التحتية السحابية للجيش والاستخبارات الإسرائيلية.",
+            "fullDescription": "Amazon Web Services (AWS) شريك في مشروع نيمبوس، العقد البالغ 1.2 مليار دولار الذي يوفر خدمات سحابية للحكومة الإسرائيلية، بما في ذلك الجيش ووكالات الاستخبارات.",
+            "alternatives": ["تجار التجزئة المحليين", "المتاجر الإلكترونية الأخلاقية", "إيباي"],
+            "sources": [
+                {"name": "No Tech For Apartheid", "url": "https://www.notechforapartheid.com/"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 16,
+            "name": "مايكروسوفت",
+            "sector": "tech",
+            "severity": "medium",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1200px-Microsoft_logo_%282012%29.svg.png",
+            "shortReason": "توفر خدمات سحابية وذكاء اصطناعي للجيش وخدمات الأمن الإسرائيلية.",
+            "fullDescription": "توفر Microsoft Azure خدمات سحابية للحكومة الإسرائيلية ولديها عقود مع وكالات الأمن الإسرائيلية. تدعم تكنولوجيا الشركة العمليات العسكرية والمراقبة الإسرائيلية.",
+            "alternatives": ["LibreOffice", "لينكس", "بدائل مفتوحة المصدر"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 17,
+            "name": "لوريال",
+            "sector": "consumer",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/2125/brand.gif?itok=9H79h1nR",
+            "shortReason": "تدير منشآت تصنيع في إسرائيل ولها روابط تجارية عميقة.",
+            "fullDescription": "لوريال لديها عمليات كبيرة في إسرائيل، بما في ذلك مرافق البحث والتطوير. تم استهداف الشركة للمقاطعة بسبب مساهماتها الاقتصادية في إسرائيل.",
+            "alternatives": ["ذا بودي شوب", "لاش", "مستحضرات التجميل المحلية"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Ethical Consumer", "url": "https://www.ethicalconsumer.org/"}
+            ]
+        },
+        {
+            "id": 18,
+            "name": "إستي لودر",
+            "sector": "consumer",
+            "severity": "medium",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/untitled-1_171.png?itok=aEtznZK2",
+            "shortReason": "العائلة المؤسسة لها روابط صهيونية قوية وتبرعات كبيرة لإسرائيل.",
+            "fullDescription": "شركات إستي لودر لها روابط عميقة مع إسرائيل من خلال عائلتها المؤسسة. رونالد لودر، رئيس مجلس إدارة الشركة الفخري، هو مانح رئيسي للقضايا المؤيدة لإسرائيل.",
+            "alternatives": ["لاش", "ذا بودي شوب", "E.l.f. Cosmetics"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 19,
+            "name": "سودا ستريم",
+            "sector": "consumer",
+            "severity": "high",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092012/soda_stream.png?itok=jPeI2JW-",
+            "shortReason": "شركة إسرائيلية كانت تعمل سابقًا في مستوطنة غير قانونية بالضفة الغربية.",
+            "fullDescription": "سودا ستريم هي شركة إسرائيلية كانت تدير سابقًا مصنعها الرئيسي في مستوطنة معاليه أدوميم غير القانونية في الضفة الغربية المحتلة. تعتبر حملة BDS الناجحة ضد سودا ستريم انتصارًا كبيرًا للحركة.",
+            "alternatives": ["صانعي المياه الغازية المحليين", "البدائل التقليدية"],
+            "sources": [
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"},
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"}
+            ]
+        },
+        {
+            "id": 20,
+            "name": "أوراكل",
+            "sector": "tech",
+            "severity": "high",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1200px-Oracle_logo.svg.png",
+            "shortReason": "توفر البنية التحتية السحابية وتقنية قواعد البيانات للحكومة والجيش الإسرائيليين.",
+            "fullDescription": "لدى أوراكل عقود كبيرة مع الحكومة الإسرائيلية وتوفر تقنية قواعد البيانات والبنية التحتية السحابية التي تستخدمها المؤسسات الإسرائيلية. تعمل تقنية أوراكل على تشغيل أنظمة الحكومة الإسرائيلية الحيوية. وقد وسعت الشركة وجودها في إسرائيل بمراكز بيانات واستثمارات مستمرة.",
+            "alternatives": ["PostgreSQL", "MariaDB", "قواعد بيانات مفتوحة المصدر"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        },
+        {
+            "id": 21,
+            "name": "آي بي إم",
+            "sector": "tech",
+            "severity": "medium",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1200px-IBM_logo.svg.png",
+            "shortReason": "وجود طويل الأمد في إسرائيل مع مراكز بحث وتطوير وعقود حكومية.",
+            "fullDescription": "حافظت آي بي إم على وجود كبير في إسرائيل لعقود، حيث تدير مراكز متعددة للبحث والتطوير. لدى الشركة عقود مع الوكالات الحكومية الإسرائيلية وتُستخدم تقنيتها في جميع أنحاء البنية التحتية الإسرائيلية. يساهم استثمار آي بي إم المستمر في النظام التكنولوجي الذي يدعم الدولة.",
+            "alternatives": ["بدائل Red Hat", "حلول مفتوحة المصدر", "مزودو تكنولوجيا المعلومات المحليون"],
+            "sources": [
+                {"name": "Who Profits", "url": "https://www.whoprofits.org/"},
+                {"name": "حركة BDS", "url": "https://bdsmovement.net/"}
+            ]
+        }
+    ]
+}

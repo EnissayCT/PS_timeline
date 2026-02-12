@@ -1,8 +1,8 @@
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, Legend } from 'recharts';
 
 const educationData = [
-  { type: "Completely Destroyed", schools: 123, universities: 0 },
-  { type: "Partially Damaged", schools: 335, universities: 0 },
+  { type: "Completely Destroyed", schools: 220, universities: 8 },
+  { type: "Partially Damaged", schools: 200, universities: 4 },
 ];
 
 const EducationStackedBarChart = () => (

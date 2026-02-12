@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 const Navbar = () => {
+    const location = useLocation();
     const getPreferredTheme = () => {
         const savedTheme = localStorage.getItem('theme');
         if (savedTheme) {
@@ -23,6 +24,7 @@ const Navbar = () => {
             stats: "Statistics",
             dtoll: "Death Toll",
             disinformations: "Disinformations",
+            boycott: "Boycott",
             contact: "Contact Us",
         },
         ar: {
@@ -31,6 +33,7 @@ const Navbar = () => {
             stats: "إحصائيات",
             dtoll: "عدد الوفيات",
             disinformations: "شبهات",
+            boycott: "مقاطعة",
             contact: "اتصل بنا",
         },
         fr: {
@@ -39,6 +42,7 @@ const Navbar = () => {
             stats: "statistiques",
             dtoll: "Nombre de Morts",
             disinformations: "Désinformations",
+            boycott: "Boycotter",
             contact: "Contactez-nous",
         },
     };
@@ -71,6 +75,22 @@ const Navbar = () => {
     useEffect(() => {
         sessionStorage.setItem('language', language);
     }, [language]);
+
+    useEffect(() => {
+        // Sync activeLink with current URL path
+        const pathToLinkMap = {
+            '/': 'History',
+            '/atrocities': 'Atrocities',
+            '/stats': 'stats',
+            '/dtoll': 'dtoll',
+            '/disinformations': 'Disinformations',
+            '/boycott': 'Boycott',
+            '/contact': 'Contact'
+        };
+        const currentLink = pathToLinkMap[location.pathname] || 'History';
+        setActiveLink(currentLink);
+        localStorage.setItem('activeLink', currentLink);
+    }, [location.pathname]);
 
     return (
         <nav className="backdrop-filter backdrop-blur-lg bg-opacity-60 fixed w-full z-20 top-0 start-0">
@@ -116,6 +136,9 @@ const Navbar = () => {
                         </li>
                         <li>
                             <a href="#" onClick={() => handleLinkClick('Disinformations')} className={`block py-2 px-3 ${activeLink === 'Disinformations' ? 'text-red-600' : 'text-current'} rounded md:hover:bg-transparent md:p-0 hover:text-green-500`}><Link to={"/disinformations"}>{translations[language].disinformations}</Link></a>
+                        </li>
+                        <li>
+                            <a href="#" onClick={() => handleLinkClick('Boycott')} className={`block py-2 px-3 ${activeLink === 'Boycott' ? 'text-red-600' : 'text-current'} rounded md:hover:bg-transparent md:p-0 hover:text-green-500`}><Link to={"/boycott"}>{translations[language].boycott}</Link></a>
                         </li>
                         <li>
                             <a href="#" onClick={() => handleLinkClick('Contact')} className={`block py-2 px-3 ${activeLink === 'Contact' ? 'text-red-600' : 'text-current'} rounded md:hover:bg-transparent md:p-0 hover:text-green-500`}><Link to={"/contact"}>{translations[language].contact}</Link></a>

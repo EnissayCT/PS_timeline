@@ -1,38 +1,38 @@
 import React, { useEffect, useState } from 'react';
 import { PieChart, Pie, Cell, Tooltip, Legend } from 'recharts';
 
+// Updated figures as of February 2026
+// Sources: WHO, CPJ, Gaza Health Ministry, OCHA
 const dataEn = [
-    { name: 'Medical Workers', value: 1055 },
-    { name: 'Civil defence', value: 97 },
-    { name: 'Journalists', value: 205 },
-    { name: 'Police men', value: 706 } 
+    { name: 'Medical Workers', value: 1300 }, // Over 1300 healthcare workers killed
+    { name: 'Civil Defence', value: 130 }, 
+    { name: 'Journalists', value: 230 }, // CPJ: 230+ journalists killed
+    { name: 'UN Staff (UNRWA)', value: 260 } // Highest UN staff death toll in any conflict
 ];
 
 const dataFr = [
-    { name: 'Travailleurs médicaux', value: 1055 },
-    { name: 'Défense civile', value: 97 },
-    { name: 'Journalistes', value: 205 },
-    { name: 'Policiers', value: 706 } 
+    { name: 'Travailleurs médicaux', value: 1300 },
+    { name: 'Défense civile', value: 130 },
+    { name: 'Journalistes', value: 230 },
+    { name: 'Personnel ONU (UNRWA)', value: 260 } 
 ];
 
 const dataAr = [
-    { name: 'العاملين في المجال الطبي', value: 1055 },
-    { name: 'الدفاع المدني', value: 97 },
-    { name: 'الصحفيين', value: 205 },
-    { name: 'رجال الشرطة', value: 706 } 
+    { name: 'العاملين في المجال الطبي', value: 1300 },
+    { name: 'الدفاع المدني', value: 130 },
+    { name: 'الصحفيين', value: 230 },
+    { name: 'موظفي الأمم المتحدة (أونروا)', value: 260 } 
 ];
 
 const COLORS = ['#800080', '#8A2BE2', '#9370DB', '#BA55D3'];
 
 
 const StaffFatalities = () => {
-    const [lang, setLang] = useState('en');
     const [title, setTitle] = useState('Staff Fatalities');
     const [data, setData] = useState(dataEn);
 
     useEffect(() => {
         const language = sessionStorage.getItem('language') || 'en';
-        setLang(language);
 
         switch (language) {
             case 'fr':

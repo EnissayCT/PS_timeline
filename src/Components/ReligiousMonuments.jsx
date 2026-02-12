@@ -2,10 +2,10 @@ import React from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from 'recharts';
 
 const data = [
-    { shortName: 'A', longName: 'Alpha', value: 815 },
-    { shortName: 'B', longName: 'Beta', value: 151 },
-    { shortName: 'C', longName: 'Gamma', value: 256 },
-    { shortName: 'D', longName: 'Delta', value: 19 },
+    { shortName: 'A', longName: 'Alpha', value: 910 },
+    { shortName: 'B', longName: 'Beta', value: 205 },
+    { shortName: 'C', longName: 'Gamma', value: 320 },
+    { shortName: 'D', longName: 'Delta', value: 28 },
     { shortName: 'E', longName: 'Epsilon', value: 3 },
 ];
 

@@ -2,18 +2,18 @@ import React, { useEffect, useState } from 'react';
 import { ResponsiveContainer, BarChart, CartesianGrid, XAxis, YAxis, Tooltip, Legend, Bar } from 'recharts';
 
 const dataEn = [
-    { name: 'Gaza', Casualties: 46500 },
-    { name: 'Israel', Casualties: 720 },
+    { name: 'Gaza', Casualties: 72049 },
+    { name: 'Israel', Casualties: 810 },
 ];
 
 const dataFr = [
-    { name: 'Gaza', Victimes: 46500 },
-    { name: 'Israël', Victimes: 720 },
+    { name: 'Gaza', Victimes: 72049 },
+    { name: 'Israël', Victimes: 810 },
 ];
 
 const dataAr = [
-    { name: 'غزة', الضحايا: 46500 },
-    { name: 'إسرائيل', الضحايا: 720 },
+    { name: 'غزة', الضحايا: 72049 },
+    { name: 'إسرائيل', الضحايا: 810 },
 ];
 
 const DeathComparison = () => {

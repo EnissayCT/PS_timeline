@@ -17,8 +17,10 @@ const data = [
     { year: 2020, casualties: 2781 },
     { year: 2021, casualties: 540 },
     { year: 2022, casualties: 1200 },
-    { year: 2023, casualties: 22000 },
-    { year: 2024, casualties: 24500 }
+    { year: 2023, casualties: 18500 },
+    { year: 2024, casualties: 45000 },
+    { year: 2025, casualties: 7500 },
+    { year: 2026, casualties: 1049 }
 ];
 
 const translations = {

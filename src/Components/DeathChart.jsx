@@ -2,21 +2,21 @@ import React from 'react';
 import { PieChart, Pie, Cell, Tooltip } from 'recharts';
 
 const dataEn = [
-    { name: 'Children', value: 20400 },
-    { name: 'Women', value: 12000 },
-    { name: 'Men', value: 14100 },
+    { name: 'Children', value: 28820 },
+    { name: 'Women', value: 21615 },
+    { name: 'Men', value: 21614 },
 ];
 
 const dataFr = [
-    { name: 'Enfants', value: 20400 },
-    { name: 'Femmes', value: 12000 },
-    { name: 'Hommes', value: 14100 },
+    { name: 'Enfants', value: 28820 },
+    { name: 'Femmes', value: 21615 },
+    { name: 'Hommes', value: 21614 },
 ];
 
 const dataAr = [
-    { name: 'الأطفال', value: 20400 },
-    { name: 'النساء', value: 12000 },
-    { name: 'الرجال', value: 14100 },
+    { name: 'الأطفال', value: 28820 },
+    { name: 'النساء', value: 21615 },
+    { name: 'الرجال', value: 21614 },
 ];
 
 const COLORS = ['#C890A7', '#69247C', '#A19AD3'];

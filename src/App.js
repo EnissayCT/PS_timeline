@@ -15,6 +15,10 @@ import Disinformations_en from "./Ressources/Disinformations_en.json";
 import Disinformations_ar from "./Ressources/Disinformations_ar.json";
 import Disinformations_fr from "./Ressources/Disinformations_fr.json";
 
+import Boycott_en from "./Ressources/Boycott_en.json";
+import Boycott_ar from "./Ressources/Boycott_ar.json";
+import Boycott_fr from "./Ressources/Boycott_fr.json";
+
 import TimelineComponent from "./Components/Timeline";
 import FatalitiesComponent from "./Components/Fatalities";
 import Navbar from "./Components/Navbar";
@@ -24,12 +28,14 @@ import ScrollToTopButton from "./Components/ScrollToTopButton";
 import QA from "./Components/Disinformations";
 import StatPage from "./Components/StatsPage";
 import Footer from "./Components/Footer";
+import Boycott from "./Components/Boycott";
 
 function App() {
   const language = sessionStorage.getItem('language');
   const historyData = language === 'ar' ? history_ar : (language === 'fr' ? history_fr : history_en);
   const atrocitiesData = language === 'ar' ? atrocities_ar : (language === 'fr' ? atrocities_fr : atrocities_en);
   const DisinformationsData = language === 'ar' ? Disinformations_ar : (language === 'fr' ? Disinformations_fr : Disinformations_en);
+  const BoycottData = language === 'ar' ? Boycott_ar : (language === 'fr' ? Boycott_fr : Boycott_en);
   let headerText, paragraphText;
   let headerText1, paragraphText1;
 
@@ -80,7 +86,7 @@ function App() {
           </section>
           <TimelineComponent data={historyData} />
           </>} />
-      <Route path="/Atrocities" element={<>
+      <Route path="/atrocities" element={<>
           <section className="text-center pt-12 ">
                 <div className="mx-auto max-w-screen-xl px-4 py-8 lg:py-12">
                     <div className="flex flex-col space-y-4">
@@ -94,6 +100,7 @@ function App() {
       <Route path="/contact" element={<ContactForm />} />
       <Route path="/dtoll" element={<FatalitiesComponent data={fatalitiesData} />} />
       <Route path="/disinformations" element={<QA data={DisinformationsData}/>} />
+      <Route path="/boycott" element={<Boycott data={BoycottData}/>} />
 
       {/* <Route path="*" element={}/> */}
       </Routes>

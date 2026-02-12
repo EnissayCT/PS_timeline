@@ -370,5 +370,125 @@
         "title": "Israeli Elections: Likud Victory",
         "description": "In 2015, Israel held early elections for the 20th Knesset. The Likud party, led by Benjamin Netanyahu, won the elections, continuing its leadership and shaping Israeli policy.",
         "image": "https://s.france24.com/media/display/2b8eea30-5a91-11ed-a4ec-005056bf30b7/w:980/p:16x9/AP22306066112037.jpg"
+    },
+    {
+        "date": "2016",
+        "title": "UNESCO Resolution on Jerusalem",
+        "description": "In October 2016, UNESCO adopted a resolution condemning Israeli actions in Jerusalem and the occupied territories, particularly regarding holy sites. The resolution sparked international controversy and highlighted tensions over Jerusalem's status.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2016/10/d5e0bb4d76e44f84afc92b5e8eda5c3d_18.jpeg?resize=770%2C513&quality=80"
+    },
+    {
+        "date": "2017",
+        "title": "Trump Recognizes Jerusalem as Israel's Capital",
+        "description": "In December 2017, U.S. President Donald Trump recognized Jerusalem as Israel's capital, breaking with decades of international consensus and sparking protests across the Middle East and condemnation from the international community.",
+        "image": "https://static.timesofisrael.com/www/uploads/2017/12/AP_17341558471932-e1512579518939.jpg"
+    },
+    {
+        "date": "2018",
+        "title": "US Embassy Moved to Jerusalem",
+        "description": "In May 2018, the United States officially moved its embassy from Tel Aviv to Jerusalem, coinciding with the 70th anniversary of Israeli independence and the Nakba. The move was met with massive Palestinian protests in Gaza, resulting in dozens of deaths.",
+        "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12A0D/production/_101490987_trumpjerusalem.jpg"
+    },
+    {
+        "date": "2019",
+        "title": "Trump's 'Deal of the Century'",
+        "description": "In January 2020, the Trump administration unveiled its Middle East peace plan, dubbed the 'Deal of the Century.' The plan heavily favored Israel, allowing it to annex settlements and maintain security control over the West Bank, while offering Palestinians limited autonomy. The plan was rejected by Palestinian leadership.",
+        "image": "https://static.timesofisrael.com/www/uploads/2020/01/AP_20028716635996-e1580221734110.jpg"
+    },
+    {
+        "date": "2020",
+        "title": "Abraham Accords Signed",
+        "description": "In 2020, Israel signed normalization agreements with the United Arab Emirates and Bahrain, known as the Abraham Accords. These agreements marked a significant shift in Arab-Israeli relations, though Palestinians condemned them as a betrayal of their cause.",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/200915143151-01-abraham-accords-0915.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+    },
+    {
+        "date": "2021",
+        "title": "ICC Opens War Crimes Investigation",
+        "description": "In March 2021, the International Criminal Court (ICC) opened a formal investigation into alleged war crimes committed in the Palestinian territories. The decision was condemned by Israel and the United States but welcomed by Palestinians and human rights groups.",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/03/04/2492491-1729095906.jpg?itok=aECrNqPO"
+    },
+    {
+        "date": "2021",
+        "title": "May 2021 Gaza Conflict",
+        "description": "In May 2021, a major escalation occurred between Israel and Hamas, triggered by tensions in Sheikh Jarrah and clashes at Al-Aqsa Mosque. The 11-day conflict resulted in over 250 Palestinian deaths in Gaza and significant destruction.",
+        "image": "https://static01.nyt.com/images/2021/05/18/world/18israel-briefing-hfo1/18israel-briefing-hfo1-videoSixteenByNine3000.jpg"
+    },
+    {
+        "date": "2022",
+        "title": "Shireen Abu Akleh Killed",
+        "description": "In May 2022, renowned Palestinian-American Al Jazeera journalist Shireen Abu Akleh was shot and killed by Israeli forces while covering a raid in Jenin, West Bank. Her death sparked international outcry and investigations confirmed she was deliberately targeted despite wearing a press vest.",
+        "image": "https://static.timesofisrael.com/www/uploads/2022/05/AP22131385167262-e1652270525875.jpg"
+    },
+    {
+        "date": "2022",
+        "title": "Most Right-Wing Israeli Government Formed",
+        "description": "In December 2022, Benjamin Netanyahu formed Israel's most right-wing government in history, including far-right parties that openly advocate for settlement expansion and annexation of the West Bank. The coalition sparked concerns about Palestinian rights and the peace process.",
+        "image": "https://static.timesofisrael.com/www/uploads/2022/12/AP22357479821925-e1671788885313.jpg"
+    },
+    {
+        "date": "2023",
+        "title": "Judicial Overhaul Protests in Israel",
+        "description": "Throughout 2023, massive protests erupted in Israel against the government's proposed judicial reforms, which critics said would undermine democracy and concentrate power. The internal crisis divided Israeli society and occupied much of the government's attention.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-24T173638Z_1844486185_RC2FR2AHBMY2_RTRMADP_3_ISRAEL-POLITICS-PROTESTS-1690217722.jpg?resize=770%2C513&quality=80"
+    },
+    {
+        "date": "October 7, 2023",
+        "title": "Hamas Operation Al-Aqsa Flood",
+        "description": "On October 7, 2023, Hamas launched a major military operation from Gaza into southern Israel, breaking through the barrier and engaging in combat with Israeli forces. The operation resulted in Israeli military and civilian casualties and the capture of hostages.",
+        "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SHUVHQYHV5OCZJ7M5DR5DMNIYY.jpg"
+    },
+    {
+        "date": "October 2023",
+        "title": "Israel Declares War on Gaza",
+        "description": "Following the October 7 attack, Israel declared war on Gaza and launched a massive military campaign. A complete siege was imposed, cutting off food, water, electricity, and fuel. The campaign has resulted in unprecedented destruction and loss of life.",
+        "image": "https://static.timesofisrael.com/www/uploads/2023/10/AP23282595820324-e1697365765306.jpg"
+    },
+    {
+        "date": "November 2023",
+        "title": "Temporary Ceasefire and Hostage Exchange",
+        "description": "In November 2023, a temporary ceasefire was brokered to allow for the exchange of hostages held by Hamas and Palestinian prisoners held by Israel. The ceasefire lasted seven days before hostilities resumed.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/2023-11-24T112153Z_843066025_RC2CN4ALR3MC_RTRMADP_3_ISRAEL-PALESTINIANS-PRISONERS-1700829690.jpg?resize=770%2C513&quality=80"
+    },
+    {
+        "date": "December 2023",
+        "title": "South Africa Files Genocide Case at ICJ",
+        "description": "In December 2023, South Africa filed a case at the International Court of Justice (ICJ) accusing Israel of committing genocide in Gaza. The case cited systematic destruction, mass killings, and statements by Israeli officials calling for the elimination of Gaza.",
+        "image": "https://static.timesofisrael.com/www/uploads/2024/01/AP24011496782042-e1704982158718.jpg"
+    },
+    {
+        "date": "January 2024",
+        "title": "ICJ Orders Israel to Prevent Genocide",
+        "description": "In January 2024, the International Court of Justice issued provisional measures ordering Israel to take immediate action to prevent genocidal acts in Gaza, ensure humanitarian aid access, and preserve evidence. The ruling was legally binding under international law.",
+        "image": "https://cdn.prod.www.spiegel.de/images/2829ae98-0a26-4c1c-963d-d11906a5db65_w1200_r1.778_fpx44.99_fpy44.99.jpg"
+    },
+    {
+        "date": "May 2024",
+        "title": "ICC Prosecutor Seeks Arrest Warrants",
+        "description": "In May 2024, the International Criminal Court prosecutor announced plans to seek arrest warrants for Israeli Prime Minister Benjamin Netanyahu and Defense Minister Yoav Gallant, as well as Hamas leaders, for alleged war crimes and crimes against humanity.",
+        "image": "https://static.timesofisrael.com/www/uploads/2024/05/AFP__20240520__34RC9F8__v3__HighRes__NetherlandsIccPalestinianIsrael-e1716241806460.jpg"
+    },
+    {
+        "date": "May 2024",
+        "title": "Ireland, Spain, and Norway Recognize Palestine",
+        "description": "In May 2024, Ireland, Spain, and Norway officially recognized the State of Palestine, joining more than 140 other countries. The move was celebrated by Palestinians and condemned by Israel as 'rewarding terrorism.'",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2024/05/AP24143440522438-1716385055.jpg?resize=770%2C513&quality=80"
+    },
+    {
+        "date": "July 2024",
+        "title": "ICC Issues Arrest Warrants",
+        "description": "In July 2024, the International Criminal Court issued arrest warrants for Israeli Prime Minister Benjamin Netanyahu and Defense Minister Yoav Gallant for war crimes and crimes against humanity committed in Gaza, including starvation as a method of warfare.",
+        "image": "https://static.timesofisrael.com/www/uploads/2024/11/AP24326475174761-e1732283308527.jpg"
+    },
+    {
+        "date": "October 2024",
+        "title": "Northern Gaza Offensive",
+        "description": "In October 2024, Israel launched a major offensive in northern Gaza, particularly targeting Jabalia, with reports of mass evacuations, destruction of entire neighborhoods, and allegations of implementing the 'Generals' Plan' to empty northern Gaza of its population.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-19T103414Z_1886426177_RC2RWAA59G8E_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1729334382.jpg?resize=770%2C513&quality=80"
+    },
+    {
+        "date": "2025",
+        "title": "Continued Siege and Humanitarian Crisis",
+        "description": "As of 2025, Gaza remains under total siege with severe restrictions on humanitarian aid. Famine conditions affect large portions of the population, the healthcare system has collapsed, and displacement continues. International efforts for a permanent ceasefire have repeatedly failed.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24322452491264-1731919252.jpg?resize=770%2C513&quality=80"
     }
 ]
